@@ -57,23 +57,27 @@ async def process_dataframe(
         cleaned_batch = await process_batch(batch, process_entry, client)
         results.extend(cleaned_batch)
 
+        # add pause between batches to avoid rate limiting
+        if i < len(df) - batch_size:
+            await asyncio.sleep(1)
+
     df["description"] = results
     return df
 
 
 async def main():
     # Create an instance of the API client
-    client = anthropic.AsyncAnthropic(api_key=os.getenv("OPENAI_API_KEY"))
+    client = anthropic.AsyncAnthropic(api_key=os.getenv("ANTHROPIC_API_KEY"))
     # Create a sample dataframe
-    df = pd.read_csv("outputs/all_castles.csv")
+    df = pd.read_csv("outputs/missing_castles.csv")
     # combine the name and country columns
-    df['name_country'] = df['name'] + ', ' + df['country']
+    #df['name_country'] = df['name'] + ', ' + df['country']
 
     # Process the dataframe
-    df_cleaned = await process_dataframe(df, "name_country", client, batch_size=5)
+    df_cleaned = await process_dataframe(df, "name", client, batch_size=2)
 
     # Optionally, save the result
-    df_cleaned.to_csv("outputs/llm_descriptions.csv", index=False)
+    df_cleaned.to_csv("outputs/llm_descriptions_missing.csv", index=False)
 
 if __name__ == "__main__":
     asyncio.run(main())

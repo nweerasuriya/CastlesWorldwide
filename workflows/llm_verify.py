@@ -76,16 +76,16 @@ async def process_dataframe(
 
 async def main():
     # Create an instance of the OpenAI client
-    client = AsyncOpenAI(api_key=os.getenv("ANTHROPIC_API_KEY"))    
+    client = AsyncOpenAI(api_key=os.getenv("OPENAI_API_KEY"))    
     # Load the dataframe
-    df = pd.read_csv("outputs/cleaned_castle_data.csv")
+    df = pd.read_csv("outputs/cleaned_castle_data_2.csv")
 
     
     # Process the dataframe
-    df_processed = await process_dataframe(df[1001:], client, batch_size=3)
+    df_processed = await process_dataframe(df, client, batch_size=3)
     
     # Optionally, save the result
-    df_processed.to_csv("outputs/classified_castles_rest.csv", index=False)
+    df_processed.to_csv("outputs/classified_castles_2.csv", index=False)
     
     # Print summary of classifications
     type_counts = df_processed['structure_type'].value_counts()

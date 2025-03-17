@@ -15,7 +15,7 @@ __version__ = "0.1"
 import pandas as pd
 import numpy as np
 # Read the data
-df = pd.read_csv("outputs/llm_descriptions.csv")
+df = pd.read_csv("outputs/llm_descriptions_2.csv")
 
 # filter out castles with missing or unknown names
 df = df[df['name']!="Unknown"]
@@ -28,10 +28,6 @@ df = df[df['description'].notnull()]
 removed_descriptions = df[df['description'].str.startswith("Unfortunately") | df['description'].str.startswith("I'm sorry") | df['description'].str.startswith("I'm afraid")]
 
 df = df.drop(removed_descriptions.index)
-
-# save dropped data
-null_descriptions.to_csv("outputs/dropped_null_descriptions.csv", index=False)
-removed_descriptions.to_csv("outputs/dropped_unfortunate_descriptions.csv", index=False)
 
 filtered_df = df[['name', 'description', 'historic_type', 'castle_type', 'country']]
 
@@ -89,7 +85,7 @@ df_sorted.reset_index(drop=True, inplace=True)
 df_sorted = df_sorted[['name', 'country', 'city', 'castle_type', 'description']]
 
 # Save the cleaned data enabling utf-8 encoding
-df_sorted.to_csv("outputs/cleaned_castle_data.csv", index=False, encoding='utf-8')
+df_sorted.to_csv("outputs/cleaned_castle_data_2.csv", index=False, encoding='utf-8')
 
 # %%
 
@@ -99,25 +95,12 @@ df_sorted.to_csv("outputs/cleaned_castle_data.csv", index=False, encoding='utf-8
 import pandas as pd
 
 # Load the classified castle data
-class_1 = pd.read_csv("outputs/classified_castles_1000.csv")
-class_2 = pd.read_csv("outputs/classified_castles_rest.csv")
-
-# Combine the two dataframes
-combined = pd.concat([class_1, class_2], ignore_index=True)
+df = pd.read_csv("outputs/classified_castles_2.csv")
 
 # remove rows marked for removal in structure_type column. Any with 'remove' included in the string
-combined = combined[~combined['structure_type'].str.contains('remove', case=False)]
-combined = combined[~combined['structure_type'].str.contains('invalid', case=False)]
-combined.to_csv("outputs/castle_list_v0.2.csv", index=False)
-# %%
-
-# %% --------------------------------------------------------------------------
-# Remove any word with the word ruin in the description
-# -----------------------------------------------------------------------------
-import pandas as pd
-
-# Load the cleaned castle data
-df = pd.read_csv("outputs/castle_list_v0_2.csv", encoding_errors='ignore')
+df = df[~df['structure_type'].str.contains('remove', case=False)]
+df = df[~df['structure_type'].str.contains('invalid', case=False)]
+#combined.to_csv("outputs/castle_list_rest.csv", index=False)
 
 # Remove any row with the word ruin in the description or name
 df = df[~df['description'].str.contains('ruin', case=False)]
@@ -128,10 +111,53 @@ df = df[~df['castle_type'].str.contains('stately', case=False, na=False)]
 
 
 # only keep castles, palaces and fortresses
-df = df[df['structure_type'].str.contains('castle|palace|fortress', case=False)]
+#df = df[df['structure_type'].str.contains('castle|palace|fortress', case=False)]
 df = df[['name', 'country', 'city', 'structure_type', 'description']].reset_index(drop=True)
 
-df.to_csv("outputs/castle_list_v0.3.csv", index=False)
+df.to_csv("outputs/castle_list_rest.csv", index=False)
 
 
 # %%
+
+# %% --------------------------------------------------------------------------
+#
+# -----------------------------------------------------------------------------
+import pandas as pd
+
+# Load the classified castle data
+class_1 = pd.read_csv("outputs/images/castle_data_with_images_1000.csv")
+class_2 = pd.read_csv("outputs/images/castle_data_with_images_rest.csv")
+
+# Combine the two dataframes
+combined = pd.concat([class_1, class_2], ignore_index=True)
+
+# remove columns with image descriptions
+combined = combined.drop(columns=combined.filter(like='description_url').columns)
+
+# create number of images column (columns with image urls are name image_url_n)
+combined['num_images'] = combined.filter(like='image_url').count(axis=1)
+
+
+
+#to csv
+#combined.to_csv("outputs/castle_data_with_images.csv", index=False)
+# %%
+# number of rows with < 3 images
+combined[combined['num_images'] < 3].shape[0]
+
+# %%
+import pandas as pd
+
+df1 = pd.read_csv("outputs/final/castle_data_all_images_v1.csv")
+df2 = pd.read_csv("outputs/final/castle_data_all_images_v1_rest.csv")
+
+combined = pd.concat([df1, df2], ignore_index=True)
+
+# remove columns with less than 3 images between the two columns "wikimedia_number_of_images" and "wikipedia_number_of_images"
+combined = combined[combined['wikimedia_number_of_images'] + combined['wikipedia_number_of_images'] > 3]
+
+# remove rows with the same name
+combined = combined.drop_duplicates(subset=['name'], keep='first')
+
+# save to csv
+combined.to_csv("outputs/final/castle_data_all_images_v2.csv", index=False)

@@ -128,7 +128,7 @@ class WikimediaImageScraper:
             output_col_prefix (str): Prefix for output columns
             max_images (int): Maximum number of images per castle
             
-        Returns:
+        Returns:  
             pd.DataFrame: DataFrame with added image URL columns
         """
         # Create a copy to avoid modifying the original
@@ -171,18 +171,18 @@ class WikimediaImageScraper:
 if __name__ == "__main__":
     # Load your castle data
     # Replace 'castle_data.csv' with your actual file and 'castle_name' with your column name
-    castle_df = pd.read_csv('outputs/castle_list_v0.3.csv')
+    castle_df = pd.read_csv('outputs/castle_list_rest.csv')
     
     # Initialize scraper with a 1-second delay between requests (adjust as needed)
     scraper = WikimediaImageScraper(delay=1)
     
     # Process the castle data
     result_df = scraper.process_castle_data(
-        castle_df[:1000],
+        castle_df,
         castle_name_col='name',  # Replace with your castle name column
-        max_images=10  # Get up to 5 images per castle
+        max_images=5  # Get up to 5 images per castle
     )
     
     # Save the results
-    result_df.to_csv('castle_data_with_images_1000.csv', index=False)
+    result_df.to_csv('outputs/images/castle_data_with_images_rest.csv', index=False)
     print(f"Process complete. Results saved to 'castle_data_with_images.csv'")
