@@ -17,7 +17,7 @@ import pandas as pd
 from src.wikipedia import WikipediaImageFinder
 
 # Load your castle data
-castle_df = pd.read_csv('outputs/images/castle_data_with_images_rest.csv')
+castle_df = pd.read_csv('outputs/final/castle_data_all_images_v2.csv')
 
 # Initialize the finder
 finder = WikipediaImageFinder()
@@ -32,7 +32,7 @@ result_df = finder.process_castle_data(
 )
 
 # Save the results
-result_df.to_csv('outputs/images/castle_data_with_wikipedia_images_2.csv', index=False)
+#result_df.to_csv('outputs/images/castle_data_with_wikipedia_i.csv', index=False)
 
 
 # %% --------------------------------------------------------------------------
@@ -46,18 +46,24 @@ df['wikipedia_image_urls'] = df['wikipedia_image_urls'].apply(lambda x: [i for i
 df = df.drop(columns=['wiki_image_1_url', 'wiki_image_2_url', 'wiki_image_3_url', 'wiki_image_4_url', 'wiki_image_5_url'])
 
 # combine wikimedia image urls into a single column as a list
-df['wikimedia_image_urls'] = df[['image_url_1', 'image_url_2', 'image_url_3', 'image_url_4', 'image_url_5']].values.tolist()
-# drop nan values in list
-df['wikimedia_image_urls'] = df['wikimedia_image_urls'].apply(lambda x: [i for i in x if not (isinstance(i, float) and math.isnan(i))])
-df = df.drop(columns=[
-    'image_url_1', 'image_url_2', 'image_url_3', 'image_url_4', 'image_url_5', 'image_url_6', 'image_url_7', 'image_url_8', 'image_url_9', 'image_url_10'
-    ])
+# df['wikimedia_image_urls'] = df[['image_url_1', 'image_url_2', 'image_url_3', 'image_url_4', 'image_url_5']].values.tolist()
+# # drop nan values in list
+# df['wikimedia_image_urls'] = df['wikimedia_image_urls'].apply(lambda x: [i for i in x if not (isinstance(i, float) and math.isnan(i))])
+# df = df.drop(columns=[
+#     'image_url_1', 'image_url_2', 'image_url_3', 'image_url_4', 'image_url_5'
+#     ])
 
 df['wikipedia_number_of_images'] = df['wikipedia_image_urls'].apply(lambda x: len([i for i in x if i != '']))
-df['wikimedia_number_of_images'] = df['wikimedia_image_urls'].apply(lambda x: len([i for i in x if i != '']))
+#df['wikimedia_number_of_images'] = df['wikimedia_image_urls'].apply(lambda x: len([i for i in x if i != '']))
+
+# For wikipedia articles which have the word list in the title, remove wikipedia image urls and se number of images to 0
+df.loc[df['wikipedia_article_url'].str.contains('list', case=False), 'wikipedia_image_urls'] = ''
+df.loc[df['wikipedia_article_url'].str.contains('list', case=False), 'wikipedia_number_of_images'] = 0
 
 # sort by number of wikipedia images
-df = df.sort_values(by='wikipedia_number_of_images', ascending=False)
-df.to_csv("outputs/final/castle_data_all_images_rest.csv", index=False)
+df = df.sort_values(by='wikipedia_number_of_images', ascending=False).reset_index(drop=True)
+
+
+df.to_csv("outputs/final/castle_data_all_images_v3.csv", index=False)
 
 # %%

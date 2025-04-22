@@ -59,21 +59,21 @@ class WikipediaImageFinder:
         Returns:
             dict: Dictionary with article info and language used
         """
-        # Try primary language based on country first
+        # Try language based on country after trying english
         primary_language = self.get_language_for_country(country)
     
         # First try the country's primary language
-        article = self._search_article(castle_name, primary_language)
+        article = self._search_article(castle_name, "en")
         
-        # If not found and primary language isn't English, try English
+        # If not found and primary language isn't English, try secondary language
         if not article and primary_language != "en":
-            article = self._search_article(castle_name, "en")
+            article = self._search_article(castle_name, primary_language)
 
         # Return what we found, including which language succeeded
         if article:
             return {
                 "title": article,
-                "language": primary_language if article["language"] == "primary" else "en"
+                "language": primary_language if article["language"] != "en" else "en"
             }
         else:
             return None
@@ -108,7 +108,7 @@ class WikipediaImageFinder:
                 # Return the article title and note which language succeeded
                 return {
                     "title": data["query"]["search"][0]["title"],
-                    "language": "primary" if language != "en" else "en"
+                    "language": language
                 }
             return None
             

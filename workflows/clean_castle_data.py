@@ -149,15 +149,45 @@ combined[combined['num_images'] < 3].shape[0]
 import pandas as pd
 
 df1 = pd.read_csv("outputs/final/castle_data_all_images_v1.csv")
-df2 = pd.read_csv("outputs/final/castle_data_all_images_v1_rest.csv")
+df2 = pd.read_csv("outputs/final/castle_data_all_images_rest.csv")
 
 combined = pd.concat([df1, df2], ignore_index=True)
 
 # remove columns with less than 3 images between the two columns "wikimedia_number_of_images" and "wikipedia_number_of_images"
 combined = combined[combined['wikimedia_number_of_images'] + combined['wikipedia_number_of_images'] > 3]
 
-# remove rows with the same name
-combined = combined.drop_duplicates(subset=['name'], keep='first')
+# remove rows with the same name irrespective of case
+combined = combined[~combined['name'].str.lower().duplicated(keep='first')]
+
+combined = combined[['name', 'country', 'city', 'structure_type', 'description',
+       'wikipedia_article_url', 'wikipedia_language', 'wikipedia_image_urls',
+       'wikimedia_image_urls', 'wikipedia_number_of_images',
+       'wikimedia_number_of_images']]
+
+def get_country_from_description(text: str):
+    """
+    Separate city and country from a text string that has the format 'City: city_name, Country: country_name'
+    """
+    if 'Country' in text:
+        country = text.split('Country: ')[1].split('\n')[0]
+    else:
+        country = np.nan
+    return country
+
+
+countries = combined['description'].apply(get_country_from_description)
+
+combined['country'] = combined['country'].fillna(pd.Series(countries))
+
+# reset index
+combined.reset_index(drop=True, inplace=True)
+
 
 # save to csv
 combined.to_csv("outputs/final/castle_data_all_images_v2.csv", index=False)
+castles_only = combined[combined['structure_type'] == 'castle']
+# reset index
+castles_only.reset_index(drop=True, inplace=True)
+castles_only.to_csv("outputs/final/only_castles_v2.csv", index=False)
+
+# %%
