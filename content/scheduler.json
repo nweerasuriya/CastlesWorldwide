@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": "post_001",
+      "video_file": "content/castle_videos/video1.mp4",
+      "youtube": {
+        "title": "Amazing Content #1",
+        "description": "Check out this amazing content! #shorts",
+        "tags": ["shorts", "content", "amazing"]
+      },
+      "instagram": {
+        "caption": "Amazing content! 🔥 #content #amazing #reels"
+      },
+      "scheduled_date": "2025-01-15",
+      "posted": false
+    },
+    {
+      "id": "post_002",
+      "video_file": "content/castle_videos/video2.mp4",
+      "youtube": {
+        "title": "Amazing Content #2",
+        "description": "More amazing content! #shorts",
+        "tags": ["shorts", "content", "amazing"]
+      },
+      "instagram": {
+        "caption": "More amazing content! 💯 #content #amazing #reels"
+      },
+      "scheduled_date": "2025-01-16",
+      "posted": false
+    }
+  ]
+}
