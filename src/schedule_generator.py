@@ -1,14 +1,3 @@
-"""
-Enter script name
-
-Enter short description of the script
-"""
-
-__date__ = "2025-09-09"
-__author__ = "NedeeshaWeerasuriya"
-__version__ = "0.1"
-
-
 import pandas as pd
 import json
 import os
@@ -79,7 +68,7 @@ def save_schedule_to_file(schedule_data, output_path):
     with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(schedule_data, f, indent=2, ensure_ascii=False)
 
-
+# Main execution for bulk scheduling - same as your original approach
 if __name__ == "__main__":
     # Your original configuration
     START_DATE = "04/09/2025 17:00"
