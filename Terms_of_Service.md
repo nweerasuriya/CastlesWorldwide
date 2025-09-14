@@ -43,7 +43,7 @@ This application:
 ## Contact Information
 This is a personal automation project.
 
-For any questions: [Your Email]
+For any questions: nedeeshawork@gmail.com
 
 ## Updates
 These terms may be updated as the application evolves. Changes will be reflected with a new "last updated" date.
