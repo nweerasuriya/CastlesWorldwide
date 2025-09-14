@@ -32,8 +32,7 @@ This application uses:
 ## Contact
 This is a personal project for automating uploads to my own social media accounts. 
 
-For questions about this privacy policy: [Your Email]
-
+For questions about this privacy policy: nedeeshawork@gmail.com
 ## Changes to Privacy Policy
 I may update this privacy policy from time to time. Updates will be posted with a new "last updated" date.
 
