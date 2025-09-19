@@ -17,9 +17,10 @@ def main():
     print("=" * 40)
     
     # Get user input (with your defaults)
-    start_date = input("Enter start date (DD/MM/YYYY HH:MM) [04/09/2025 17:00]: ") or "04/09/2025 17:00"
-    video_dir = input("Enter video directory path [content/videos]: ") or "content/videos"
-    frequency = int(input("Enter posting frequency (days) [1]: ") or "1")
+    start_date = input("Enter start date (DD/MM/YYYY HH:MM) [04/09/2025]: ") or "04/09/2025"
+    start_date += " 17:00"  # Default time
+    video_dir = "content/castle_videos"
+    frequency = 1
     
     # Check if directory exists and has videos
     if not os.path.exists(video_dir):
