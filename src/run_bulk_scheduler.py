@@ -18,7 +18,7 @@ def main():
     
     # Get user input (with your defaults)
     start_date = input("Enter start date (DD/MM/YYYY HH:MM) [04/09/2025]: ") or "04/09/2025"
-    start_date += " 17:00"  # Default time
+    start_date += " 17:20"  # Default time
     video_dir = "content/castle_videos"
     frequency = 1
     
