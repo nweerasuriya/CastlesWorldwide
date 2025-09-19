@@ -1,4 +1,12 @@
-# src/main.py - Main posting orchestrator (YouTube only)
+"""
+YouTube Daily Poster Script
+"""
+
+__date__ = "2025-09-19"
+__author__ = "NedeeshaWeerasuriya"
+__version__ = "0.1"
+
+
 import json
 import os
 from datetime import datetime
