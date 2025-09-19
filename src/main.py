@@ -2,7 +2,7 @@
 import json
 import os
 from datetime import datetime
-from src.youtube_uploader import YouTubeUploader
+from youtube_uploader import YouTubeUploader
 
 def load_schedule():
     """Load the posting schedule from JSON file"""
