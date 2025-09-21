@@ -6,6 +6,9 @@ on:
     - cron: '0 16 * * *'
   workflow_dispatch:  # Allows manual trigger
 
+permissions:
+  contents: write  # Allow writing to repository
+
 jobs:
   post_content:
     runs-on: ubuntu-latest
