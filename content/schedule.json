@@ -86,7 +86,13 @@
         "caption": "🏰 Château De Belcastel #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-09-22",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "6dHsr8eY7Hk",
+      "posted_timestamp": "2025-09-22T16:03:33.589009",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": false
+      }
     },
     {
       "id": "castle_005",
