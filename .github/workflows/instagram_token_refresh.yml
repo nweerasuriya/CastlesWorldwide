@@ -1,0 +1,35 @@
+name: Instagram Token Refresh
+
+on:
+  schedule:
+    # Run every 30 days at 2 AM UTC (to refresh before 60-day expiry)
+    - cron: '0 2 1,16 * *'  # 1st and 16th of each month
+  workflow_dispatch:  # Allow manual triggering
+
+permissions:
+  contents: write
+
+jobs:
+  refresh_instagram_token:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Install dependencies
+      run: |
+        pip install requests
+        
+    - name: Refresh Instagram Token
+      env:
+        INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+        INSTAGRAM_APP_ID: ${{ secrets.INSTAGRAM_APP_ID }}
+        INSTAGRAM_APP_SECRET: ${{ secrets.INSTAGRAM_APP_SECRET }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: python src/refresh_instagram_token.py
