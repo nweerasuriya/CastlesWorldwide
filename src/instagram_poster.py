@@ -25,7 +25,6 @@ class InstagramPoster:
                 return None
             
             # Convert path to raw GitHub URL
-            
             github_url = f"https://raw.githubusercontent.com/{repo}/main/{video_path}"
             print(f"📡 GitHub video URL: {github_url}")
             
