@@ -140,7 +140,13 @@
         "caption": "🏰 Château De Bouteville #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-09-24",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "l9XGV5rHwoQ",
+      "posted_timestamp": "2025-09-24T16:03:52.599922",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": false
+      }
     },
     {
       "id": "castle_007",
