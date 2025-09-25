@@ -167,7 +167,13 @@
         "caption": "🏰 Château De Buffon #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-09-25",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "FCgGfL2KxhI",
+      "posted_timestamp": "2025-09-25T16:03:22.211128",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": false
+      }
     },
     {
       "id": "castle_008",
