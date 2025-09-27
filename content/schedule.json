@@ -221,7 +221,13 @@
         "caption": "🏰 Château De Croissy #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-09-27",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "sPSCYh2pTsQ",
+      "posted_timestamp": "2025-09-27T16:03:15.689366",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": false
+      }
     },
     {
       "id": "castle_010",
