@@ -248,7 +248,13 @@
         "caption": "🏰 Château De Landreville #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-09-28",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "Yd4a4WfwTxU",
+      "posted_timestamp": "2025-09-28T16:03:02.135385",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": false
+      }
     },
     {
       "id": "castle_011",
