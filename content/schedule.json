@@ -275,7 +275,13 @@
         "caption": "🏰 Château De La Coste #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-09-29",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "euJDmKckbMY",
+      "posted_timestamp": "2025-09-29T16:03:27.421487",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": false
+      }
     },
     {
       "id": "castle_012",
