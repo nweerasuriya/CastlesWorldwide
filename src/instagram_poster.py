@@ -85,7 +85,7 @@ class InstagramPoster:
             print(f"🎬 Posting video: {os.path.basename(video_path)}")
             print(f"📝 Caption: {caption[:50]}...")
             
-            response = requests.post(create_url, data=params, timeout=30)
+            response = requests.post(create_url, data=params)
             response_data = response.json()
             
             if 'id' not in response_data:
@@ -166,64 +166,73 @@ class InstagramPoster:
         except Exception as e:
             print(f"❌ Instagram posting error: {e}")
             return False
-    
-    def test_instagram_business_credentials(self):
-        """Test Instagram Business API credentials"""
+        
+    def verify_token(self):
+        """Verify the access token is valid"""
+        test_url = f"{self.base_url}/{self.user_id}"
+        params = {'fields': 'id,username', 'access_token': self.access_token}
+        
         try:
-            # First, get your Facebook Pages
-            url = f"{self.base_url}/me/accounts"
-            params = {
-                'access_token': self.access_token
-            }
-            
-            response = requests.get(url, params=params, timeout=10)
-            print(f"Pages Status: {response.status_code}")
-            print(f"Pages Response: {response.text}")
-            
+            response = requests.get(test_url, params=params, timeout=10)
             if response.status_code == 200:
-                pages_data = response.json()
-                
-                # Look for Instagram Business Account connected to your pages
-                for page in pages_data.get('data', []):
-                    page_id = page.get('id')
-                    page_access_token = page.get('access_token')
-                    
-                    # Check if this page has an Instagram Business Account
-                    ig_url = f"{self.base_url}/{page_id}"
-                    ig_params = {
-                        'fields': 'instagram_business_account',
-                        'access_token': self.access_token
-                    }
-                    
-                    ig_response = requests.get(ig_url, params=ig_params)
-                    print(f"Instagram check for {page.get('name')}: {ig_response.status_code}")
-                    print(f"Response: {ig_response.text}")
-                    
-            return response.status_code == 200
-            
+                print(f"✅ Token verified for user: {response.json().get('username')}")
+                return True
+            else:
+                print(f"❌ Token verification failed: {response.json()}")
+                return False
         except Exception as e:
-            print(f"❌ Exception: {e}")
+            print(f"❌ Token verification error: {e}")
             return False
         
-    def test_instagram_basic_credentials(self):
-        """Test Instagram Basic Display API credentials"""
-        try:
-            # For Instagram Basic Display API, use this endpoint
-            url = f"https://graph.instagram.com/me"
-            params = {
-                'fields': 'id,username',
+    def diagnose_token(self):
+        """Diagnose token issues"""
+        import requests
+        
+        # Test 1: Token Info
+        print("=" * 50)
+        print("TEST 1: Token Debug")
+        debug_url = "https://graph.facebook.com/v21.0/debug_token"
+        params = {
+            'input_token': self.access_token,
+            'access_token': self.access_token  # App token can also be used here
+        }
+        response = requests.get(debug_url, params=params)
+        print(f"Debug response: {response.json()}")
+        
+        # Test 2: Simple ME call
+        print("\n" + "=" * 50)
+        print("TEST 2: ME endpoint")
+        me_url = "https://graph.facebook.com/v21.0/me"
+        params = {'access_token': self.access_token}
+        response = requests.get(me_url, params=params)
+        print(f"ME response: {response.json()}")
+        
+        # Test 3: Instagram Account - CORRECTED FIELDS
+        print("\n" + "=" * 50)
+        print("TEST 3: Instagram Account endpoint")
+        ig_url = f"https://graph.facebook.com/v21.0/{self.user_id}"
+        params = {
+            'fields': 'id,username',  # Only use basic fields
+            'access_token': self.access_token
+        }
+        response = requests.get(ig_url, params=params)
+        print(f"IG Account response: {response.json()}")
+        
+        # Test 4: Try creating a test container (don't publish)
+        print("\n" + "=" * 50)
+        print("TEST 4: Test Media Container Creation")
+        test_url = f"https://graph.facebook.com/v21.0/{self.user_id}/media"
+        # Use a test image URL
+        test_params = {
+                'media_type': 'REELS',
+                'video_url': "https://github.com/nweerasuriya/CastlesWorldwide/blob/main/content/castle_videos/Ancien_Ch%C3%A2teau_Seigneurial_video.mp4",
+                'caption': "Test caption from diagnose_token",
                 'access_token': self.access_token
             }
-            
-            response = requests.get(url, params=params, timeout=10)
-            print(f"Status: {response.status_code}")
-            print(f"Response: {response.text}")
-            
-            return response.status_code == 200
-            
-        except Exception as e:
-            print(f"❌ Exception: {e}")
-            return False
+        response = requests.post(test_url, data=test_params)
+        print(f"Status: {response.status_code}")
+        print(f"Container test response: {response.json()}")
+    
 
 # Test script to verify Instagram setup
 if __name__ == "__main__":
@@ -231,11 +240,9 @@ if __name__ == "__main__":
     print("=" * 30)
       # Test credentials
     poster = InstagramPoster()
-    
-    if poster.test_instagram_basic_credentials():
-        print("\n✅ Instagram setup is working!")
 
-        
+    if poster.verify_token():
+        print("✅ Access token is valid")
         # Test URL generation
         test_video = "content/castles_videos/test_video.mp4"
         test_url = poster.get_github_video_url(test_video)

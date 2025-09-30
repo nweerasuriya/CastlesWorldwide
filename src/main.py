@@ -56,7 +56,7 @@ def main():
     
     # Test credentials first
     youtube_ready = youtube_uploader.service is not None
-    instagram_ready = instagram_poster.test_instagram_basic_credentials()
+    instagram_ready = instagram_poster.verify_token()
     
     print(f"📺 YouTube: {'✅ Ready' if youtube_ready else '❌ Not Ready'}")
     print(f"📱 Instagram: {'✅ Ready' if instagram_ready else '❌ Not Ready'}")
