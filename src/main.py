@@ -56,7 +56,7 @@ def main():
     
     # Test credentials first
     youtube_ready = youtube_uploader.service is not None
-    instagram_ready = instagram_poster.test_credentials()
+    instagram_ready = instagram_poster.test_instagram_basic_credentials()
     
     print(f"📺 YouTube: {'✅ Ready' if youtube_ready else '❌ Not Ready'}")
     print(f"📱 Instagram: {'✅ Ready' if instagram_ready else '❌ Not Ready'}")
@@ -68,7 +68,7 @@ def main():
     posted_count = 0
     
     for post in today_posts:
-        print(f"\n{'='*60}")
+        print(f"{'='*60}")
         print(f"🎬 Processing: {post['youtube']['title']}")
         print(f"📁 Video: {post['video_file']}")
         
@@ -83,7 +83,7 @@ def main():
         # Upload to YouTube
         if youtube_ready:
             try:
-                print(f"\n📺 YOUTUBE UPLOAD")
+                print(f"📺 YOUTUBE UPLOAD")
                 print("-" * 20)
                 video_id = youtube_uploader.upload_video(
                     video_path=post['video_file'],
@@ -106,7 +106,7 @@ def main():
         # Post to Instagram
         if instagram_ready:
             try:
-                print(f"\n📱 INSTAGRAM UPLOAD")
+                print(f"📱 INSTAGRAM UPLOAD")
                 print("-" * 22)
                 media_id = instagram_poster.post_video(
                     video_path=post['video_file'],
@@ -138,14 +138,13 @@ def main():
             if youtube_success: success_platforms.append("YouTube")
             if instagram_success: success_platforms.append("Instagram")
             
-            print(f"\n🎉 SUCCESS: Posted to {' + '.join(success_platforms)}")
+            print(f"🎉 SUCCESS: Posted to {' + '.join(success_platforms)}")
         else:
-            print(f"\n💥 FAILED: No platforms succeeded")
+            print(f"💥 FAILED: No platforms succeeded")
     
     # Save updated schedule
     save_schedule(schedule)
     
-    print(f"\n{'='*60}")
     print(f"🏁 DAILY POSTING COMPLETE!")
     print(f"📊 Posted {posted_count}/{len(today_posts)} items")
     print(f"🕐 Finished at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
