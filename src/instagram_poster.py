@@ -13,14 +13,7 @@ class InstagramPoster:
         if not self.access_token or not self.user_id:
             print("❌ Instagram credentials not found in environment variables")
             print("Required: INSTAGRAM_ACCESS_TOKEN, INSTAGRAM_USER_ID")
-
-    def debug_token(self):
-        """Debug access token format"""
-        print(f"Token length: {len(self.access_token) if self.access_token else 'None'}")
-        print(f"Token starts with: {self.access_token[:10] if self.access_token else 'None'}...")
-        print(f"Token ends with: ...{self.access_token[-10:] if self.access_token else 'None'}")
-        print(f"Contains spaces: {'Yes' if ' ' in self.access_token else 'No'}")
-        print(f"Contains newlines: {'Yes' if '\\n' in self.access_token else 'No'}")
+            
 
     def get_instagram_user_id(self):
         """Get Instagram User ID from access token"""
