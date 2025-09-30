@@ -28,13 +28,13 @@ def refresh_and_update_token():
             
             if new_token:
                 print("✅ Token refreshed successfully")
+                print(f"🔑 New Token: {new_token}")
                 
                 # Use GitHub CLI to update secret
                 result = subprocess.run([
                     'gh', 'secret', 'set', 'INSTAGRAM_ACCESS_TOKEN',
                     '--body', new_token
                 ], capture_output=True, text=True)
-                
                 if result.returncode == 0:
                     print("✅ GitHub secret updated")
                     return True
