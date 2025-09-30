@@ -302,7 +302,13 @@
         "caption": "🏰 Château De La Cousse #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-09-30",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "3mUXefuGePw",
+      "posted_timestamp": "2025-09-30T19:46:24.313585",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": false
+      }
     },
     {
       "id": "castle_013",
