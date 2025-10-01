@@ -79,7 +79,8 @@ class InstagramPoster:
                 'media_type': 'REELS',
                 'video_url': video_url,
                 'caption': caption,
-                'access_token': self.access_token
+                'access_token': self.access_token,
+                'thumb_offset': 5000  # Optional: set thumbnail offset in seconds
             }
             
             print(f"🎬 Posting video: {os.path.basename(video_path)}")
