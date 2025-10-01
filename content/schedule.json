@@ -329,7 +329,13 @@
         "caption": "🏰 Château De Lichtenberg #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-10-01",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "ewkHHtvA7Kw",
+      "posted_timestamp": "2025-10-01T16:03:56.735301",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": false
+      }
     },
     {
       "id": "castle_014",
