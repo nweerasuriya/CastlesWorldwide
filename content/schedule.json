@@ -356,7 +356,13 @@
         "caption": "🏰 Château De Luc #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-10-02",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "3aBSsJTaWBo",
+      "posted_timestamp": "2025-10-02T16:03:30.784498",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": false
+      }
     },
     {
       "id": "castle_015",
