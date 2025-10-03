@@ -383,7 +383,13 @@
         "caption": "🏰 Château De Montgobert #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-10-03",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "NlyYAM0u6Nw",
+      "posted_timestamp": "2025-10-03T16:03:44.995137",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": false
+      }
     },
     {
       "id": "castle_016",
