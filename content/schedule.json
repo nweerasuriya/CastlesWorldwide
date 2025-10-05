@@ -437,7 +437,13 @@
         "caption": "🏰 Château De Montsabert #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-10-05",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "71lOzhTMK4c",
+      "posted_timestamp": "2025-10-05T16:03:17.806656",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": false
+      }
     },
     {
       "id": "castle_018",
