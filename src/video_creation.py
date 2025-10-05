@@ -14,9 +14,9 @@ import pandas as pd
 import requests
 import subprocess
 import time
-import json
 import tempfile
 from ast import literal_eval
+from utilities import sanitise_filename
 
 
 def generate_azure_voice_with_subtitles(text, audio_output_path, srt_output_path, voice_name="en-GB-OllieMultilingualNeural"):
@@ -219,10 +219,13 @@ def create_castle_video(image_paths, audio_path, subtitle_path, output_path, cas
     Returns:
     - Boolean indicating success or failure
     """
-    import os
-    import subprocess
-    import tempfile
-    
+    output_dir = os.path.dirname(output_path)
+    output_filename = os.path.basename(output_path)
+    output_name, output_ext = os.path.splitext(output_filename)
+    # Sanitize the filename
+    sanitized_name = sanitise_filename(output_name)
+    sanitized_output_path = os.path.join(output_dir, f"{sanitized_name}{output_ext}")
+
     # Get audio duration
     duration = get_audio_duration(audio_path)
     if not duration:
@@ -333,7 +336,7 @@ def create_castle_video(image_paths, audio_path, subtitle_path, output_path, cas
             '-pix_fmt', 'yuv420p',
             '-t', str(total_duration),
             '-max_muxing_queue_size', '9999',  # Prevent muxing queue errors
-            output_path
+            sanitized_output_path
         ]
         
         print("Running FFmpeg command:")
@@ -345,7 +348,7 @@ def create_castle_video(image_paths, audio_path, subtitle_path, output_path, cas
             
             # Check if the process was successful
             if process.returncode == 0:
-                print(f"Video created successfully: {output_path}")
+                print(f"Video created successfully: {sanitized_output_path}")
                 return True
             else:
                 print(f"Error creating video. FFmpeg output:")
@@ -389,7 +392,7 @@ def ffmpeg_availability_check():
         return False
         
 
-def process_castle_spreadsheet(csv_path, output_dir="castle_videos", start_index=0, jump=10):
+def process_castle_spreadsheet(csv_path, output_dir="holding_castle_videos", start_index=0, jump=10):
     """
     Process a spreadsheet of castles to create TikTok-style videos.
     
@@ -505,4 +508,4 @@ def process_castle_spreadsheet(csv_path, output_dir="castle_videos", start_index
 if __name__ == "__main__":
     if ffmpeg_availability_check():
         # Process the castle spreadsheet
-        process_castle_spreadsheet('outputs/final/only_castles_v4.csv', start_index=180, jump=10)
+        process_castle_spreadsheet('outputs/final/only_castles_v4.csv', start_index=205, jump=15)

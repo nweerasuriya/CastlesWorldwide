@@ -11,6 +11,8 @@ __version__ = "0.1"
 # Import required libraries
 import numpy as np
 import pandas as pd
+import re
+import unicodedata
 
     
 def read_sort_get_countries_by_first_letter(csv_file: str, chosen_letter: str = None) -> list:
@@ -43,3 +45,25 @@ def separate_city_country(text: str):
         country
     return city, country
 
+def sanitise_filename(filename):
+    """
+    Convert filename to use only standard ASCII characters safe for URLs and APIs.
+    Removes accents, special characters, and spaces.
+    """
+    # Normalize unicode characters (convert accented chars to base chars)
+    filename = unicodedata.normalize('NFKD', filename)
+    filename = filename.encode('ASCII', 'ignore').decode('ASCII')
+    
+    # Replace spaces and underscores with hyphens
+    filename = re.sub(r'[\s_]+', '_', filename)
+    
+    # Remove any characters that aren't alphanumeric, hyphens, underscores, or dots
+    filename = re.sub(r'[^\w\-.]', '', filename)
+    
+    # Remove multiple consecutive hyphens/underscores
+    filename = re.sub(r'[-_]+', '_', filename)
+    
+    # Remove leading/trailing hyphens or underscores
+    filename = filename.strip('-_')
+    
+    return filename
