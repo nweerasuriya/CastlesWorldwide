@@ -47,7 +47,14 @@
         "caption": "🏰 Castle Heinitzburg #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-10-07",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "I0dlnSdXxKo",
+      "instagram_media_id": "18072460667175823",
+      "posted_timestamp": "2025-10-07T16:05:42.255326",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_003",
