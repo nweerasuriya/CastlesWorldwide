@@ -75,7 +75,14 @@
         "caption": "🏰 Chateau Des Etangs #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-10-08",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "KqY0zGvEq4s",
+      "instagram_media_id": "18187587553332612",
+      "posted_timestamp": "2025-10-08T16:04:40.376523",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_004",
