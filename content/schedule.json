@@ -103,7 +103,14 @@
         "caption": "🏰 Chateau Des Vaux #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-10-09",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "rhJrmGd0zBE",
+      "instagram_media_id": "18000018626836870",
+      "posted_timestamp": "2025-10-09T16:05:07.333476",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_005",
