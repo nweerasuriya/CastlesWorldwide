@@ -131,7 +131,14 @@
         "caption": "🏰 Chateau De Behoust #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-10-10",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "HZ12Nw8kEQw",
+      "instagram_media_id": "17918667456049125",
+      "posted_timestamp": "2025-10-10T16:04:26.039344",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_006",
