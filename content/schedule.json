@@ -159,7 +159,14 @@
         "caption": "🏰 Chateau De Blanzat #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-10-11",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "LzwlYcVh0IM",
+      "instagram_media_id": "17921431818170453",
+      "posted_timestamp": "2025-10-11T16:04:50.674844",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_007",
