@@ -187,7 +187,14 @@
         "caption": "🏰 Chateau De Cazilhac #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-10-12",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "DJMOlnCh8Mw",
+      "instagram_media_id": "17882485236392704",
+      "posted_timestamp": "2025-10-12T16:04:50.753052",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_008",
