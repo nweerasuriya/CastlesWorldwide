@@ -271,7 +271,14 @@
         "caption": "🏰 Chateau De La Coudraie #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-10-15",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "bu-_wCr2hHw",
+      "instagram_media_id": "18057550013234221",
+      "posted_timestamp": "2025-10-15T16:04:20.712929",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_011",
