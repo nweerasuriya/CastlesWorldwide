@@ -299,7 +299,14 @@
         "caption": "🏰 Chateau De La Motte #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-10-16",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "cOWbIqzidNU",
+      "instagram_media_id": "18130608316470840",
+      "posted_timestamp": "2025-10-16T16:04:17.739418",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_012",
