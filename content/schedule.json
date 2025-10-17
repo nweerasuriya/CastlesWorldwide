@@ -327,7 +327,14 @@
         "caption": "🏰 Chateau De La Salle #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-10-17",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "zRligdQ26_A",
+      "instagram_media_id": "18081399067999849",
+      "posted_timestamp": "2025-10-17T16:04:19.153182",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_013",
