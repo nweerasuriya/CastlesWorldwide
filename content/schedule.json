@@ -355,7 +355,14 @@
         "caption": "🏰 Chateau De Leyzarnie #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-10-18",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "UgcRHt23L8A",
+      "instagram_media_id": "17954293811889187",
+      "posted_timestamp": "2025-10-18T16:03:50.262349",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_014",
