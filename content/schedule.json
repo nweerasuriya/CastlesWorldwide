@@ -383,7 +383,14 @@
         "caption": "🏰 Chateau De Ribeaucourt #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-10-19",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "a6PBlLY9JUQ",
+      "instagram_media_id": "18108209449588269",
+      "posted_timestamp": "2025-10-19T16:03:52.732431",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_015",
