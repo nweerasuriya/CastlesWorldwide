@@ -411,7 +411,14 @@
         "caption": "🏰 Chateau De Targe #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-10-20",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "cJoS6JJaikM",
+      "instagram_media_id": "18190080193332851",
+      "posted_timestamp": "2025-10-20T16:05:03.785081",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_016",
