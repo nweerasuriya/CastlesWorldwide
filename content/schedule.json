@@ -439,7 +439,14 @@
         "caption": "🏰 Chateau De Vauvenargues #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-10-21",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "DnLl-uTHanE",
+      "instagram_media_id": "18140297314431358",
+      "posted_timestamp": "2025-10-21T16:04:50.454303",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_017",
