@@ -467,7 +467,14 @@
         "caption": "🏰 Chateau De Villaine #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-10-22",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "suLqRZghXAQ",
+      "instagram_media_id": "18083722331485079",
+      "posted_timestamp": "2025-10-22T16:05:03.711604",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_018",
