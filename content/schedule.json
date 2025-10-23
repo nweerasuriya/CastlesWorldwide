@@ -495,7 +495,14 @@
         "caption": "🏰 Chateau De Villeneuve #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-10-23",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "sWZd0-qllh8",
+      "instagram_media_id": "18047682065670907",
+      "posted_timestamp": "2025-10-23T16:04:31.351570",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_019",
