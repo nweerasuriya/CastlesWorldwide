@@ -523,7 +523,14 @@
         "caption": "🏰 Chateau Du Bois De La Roche #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-10-24",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "SOxhjHR002w",
+      "instagram_media_id": "18053089172294717",
+      "posted_timestamp": "2025-10-24T16:04:33.335620",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_020",
