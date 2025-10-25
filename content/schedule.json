@@ -551,7 +551,14 @@
         "caption": "🏰 Chateau Du Cros #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-10-25",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "m2XfGvqdkm8",
+      "instagram_media_id": "18120889609513817",
+      "posted_timestamp": "2025-10-25T16:04:49.186789",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_021",
