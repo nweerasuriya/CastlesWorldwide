@@ -579,7 +579,14 @@
         "caption": "🏰 Chateau Du Mesnil #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-10-26",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "t5Y7CI6oihw",
+      "instagram_media_id": "18092581612842399",
+      "posted_timestamp": "2025-10-26T16:03:50.266983",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_022",
