@@ -607,7 +607,14 @@
         "caption": "🏰 Chateau D Allemagne En Provence #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-10-27",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "BSa5b59rQww",
+      "instagram_media_id": "18061769285164804",
+      "posted_timestamp": "2025-10-27T16:04:00.714615",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_023",
