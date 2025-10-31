@@ -712,7 +712,14 @@
         "caption": "🏰 Le Castellas #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-10-31",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "IcJDYsesid8",
+      "instagram_media_id": "17872011660448910",
+      "posted_timestamp": "2025-10-31T16:04:25.818651",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_027",
