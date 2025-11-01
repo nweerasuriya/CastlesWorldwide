@@ -740,7 +740,14 @@
         "caption": "🏰 Le Logis #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-11-01",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "VItI0F6fcdw",
+      "instagram_media_id": "18543026026005153",
+      "posted_timestamp": "2025-11-01T16:04:01.809599",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_028",
