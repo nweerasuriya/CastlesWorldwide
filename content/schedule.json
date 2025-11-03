@@ -796,7 +796,14 @@
         "caption": "🏰 Sundorne Castle #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-11-03",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "R7RT6A8j0aQ",
+      "instagram_media_id": "18026526512729398",
+      "posted_timestamp": "2025-11-03T16:04:31.760805",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_030",
