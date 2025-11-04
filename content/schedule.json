@@ -824,7 +824,14 @@
         "caption": "🏰 Wingfield Castle #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-11-04",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "2b15Ho2DKFU",
+      "instagram_media_id": "18140946343446229",
+      "posted_timestamp": "2025-11-04T16:05:20.708280",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     }
   ]
 }
