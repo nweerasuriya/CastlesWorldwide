@@ -2,10 +2,10 @@
   "posts": [
     {
       "id": "castle_001",
-      "video_file": "content/videos/Aberystwyth_Castle_video.mp4",
+      "video_file": "content/videos/Chateau_des_Ducs_de_Bourgogne_ancien.mp4",
       "youtube": {
-        "title": "Aberystwyth Castle #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Aberystwyth Castle castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau Des Ducs De Bourgogne Ancien #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau des Ducs de Bourgogne ancien castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -16,24 +16,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Aberystwyth Castle #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau Des Ducs De Bourgogne Ancien #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-10-06",
-      "posted": true,
-      "youtube_video_id": "oWvSQhx3p54",
-      "instagram_media_id": "17929489266155252",
-      "posted_timestamp": "2025-10-06T21:29:37.014340",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-11-21",
+      "posted": false
     },
     {
       "id": "castle_002",
-      "video_file": "content/videos/Castle_Heinitzburg_video.mp4",
+      "video_file": "content/videos/Chateau_des_Ternes.mp4",
       "youtube": {
-        "title": "Castle Heinitzburg #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Castle Heinitzburg castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau Des Ternes #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau des Ternes castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -44,24 +37,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Castle Heinitzburg #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau Des Ternes #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-10-07",
-      "posted": true,
-      "youtube_video_id": "I0dlnSdXxKo",
-      "instagram_media_id": "18072460667175823",
-      "posted_timestamp": "2025-10-07T16:05:42.255326",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-11-22",
+      "posted": false
     },
     {
       "id": "castle_003",
-      "video_file": "content/videos/Chateau_des_Etangs_video.mp4",
+      "video_file": "content/videos/Chateau_de_Beaumont.mp4",
       "youtube": {
-        "title": "Chateau Des Etangs #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Chateau des Etangs castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau De Beaumont #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau de Beaumont castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -72,24 +58,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Chateau Des Etangs #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau De Beaumont #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-10-08",
-      "posted": true,
-      "youtube_video_id": "KqY0zGvEq4s",
-      "instagram_media_id": "18187587553332612",
-      "posted_timestamp": "2025-10-08T16:04:40.376523",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-11-23",
+      "posted": false
     },
     {
       "id": "castle_004",
-      "video_file": "content/videos/Chateau_des_Vaux_video.mp4",
+      "video_file": "content/videos/Chateau_de_Benauge.mp4",
       "youtube": {
-        "title": "Chateau Des Vaux #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Chateau des Vaux castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau De Benauge #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau de Benauge castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -100,24 +79,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Chateau Des Vaux #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau De Benauge #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-10-09",
-      "posted": true,
-      "youtube_video_id": "rhJrmGd0zBE",
-      "instagram_media_id": "18000018626836870",
-      "posted_timestamp": "2025-10-09T16:05:07.333476",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-11-24",
+      "posted": false
     },
     {
       "id": "castle_005",
-      "video_file": "content/videos/Chateau_de_Behoust_video.mp4",
+      "video_file": "content/videos/Chateau_de_Bonaguil.mp4",
       "youtube": {
-        "title": "Chateau De Behoust #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Chateau de Behoust castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau De Bonaguil #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau de Bonaguil castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -128,24 +100,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Chateau De Behoust #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau De Bonaguil #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-10-10",
-      "posted": true,
-      "youtube_video_id": "HZ12Nw8kEQw",
-      "instagram_media_id": "17918667456049125",
-      "posted_timestamp": "2025-10-10T16:04:26.039344",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-11-25",
+      "posted": false
     },
     {
       "id": "castle_006",
-      "video_file": "content/videos/Chateau_de_Blanzat_video.mp4",
+      "video_file": "content/videos/Chateau_de_Bourdeilles.mp4",
       "youtube": {
-        "title": "Chateau De Blanzat #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Chateau de Blanzat castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau De Bourdeilles #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau de Bourdeilles castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -156,24 +121,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Chateau De Blanzat #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau De Bourdeilles #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-10-11",
-      "posted": true,
-      "youtube_video_id": "LzwlYcVh0IM",
-      "instagram_media_id": "17921431818170453",
-      "posted_timestamp": "2025-10-11T16:04:50.674844",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-11-26",
+      "posted": false
     },
     {
       "id": "castle_007",
-      "video_file": "content/videos/Chateau_de_Cazilhac_video.mp4",
+      "video_file": "content/videos/Chateau_de_Cassis.mp4",
       "youtube": {
-        "title": "Chateau De Cazilhac #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Chateau de Cazilhac castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau De Cassis #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau de Cassis castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -184,24 +142,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Chateau De Cazilhac #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau De Cassis #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-10-12",
-      "posted": true,
-      "youtube_video_id": "DJMOlnCh8Mw",
-      "instagram_media_id": "17882485236392704",
-      "posted_timestamp": "2025-10-12T16:04:50.753052",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-11-27",
+      "posted": false
     },
     {
       "id": "castle_008",
-      "video_file": "content/videos/Chateau_de_Dromesnil_video.mp4",
+      "video_file": "content/videos/Chateau_de_Choisel.mp4",
       "youtube": {
-        "title": "Chateau De Dromesnil #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Chateau de Dromesnil castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau De Choisel #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau de Choisel castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -212,24 +163,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Chateau De Dromesnil #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau De Choisel #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-10-13",
-      "posted": true,
-      "youtube_video_id": "bsxByWwm-vU",
-      "instagram_media_id": "17865311031470882",
-      "posted_timestamp": "2025-10-13T16:04:08.718463",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-11-28",
+      "posted": false
     },
     {
       "id": "castle_009",
-      "video_file": "content/videos/Chateau_de_la_Coste_video.mp4",
+      "video_file": "content/videos/Chateau_de_Clos_Vougeot.mp4",
       "youtube": {
-        "title": "Chateau De La Coste #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Chateau de la Coste castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau De Clos Vougeot #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau de Clos Vougeot castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -240,24 +184,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Chateau De La Coste #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau De Clos Vougeot #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-10-14",
-      "posted": true,
-      "youtube_video_id": "nUviglXHSYU",
-      "instagram_media_id": "18039789029484978",
-      "posted_timestamp": "2025-10-14T16:04:36.769137",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-11-29",
+      "posted": false
     },
     {
       "id": "castle_010",
-      "video_file": "content/videos/Chateau_de_la_Coudraie_video.mp4",
+      "video_file": "content/videos/Chateau_de_Flixecourt.mp4",
       "youtube": {
-        "title": "Chateau De La Coudraie #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Chateau de la Coudraie castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau De Flixecourt #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau de Flixecourt castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -268,24 +205,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Chateau De La Coudraie #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau De Flixecourt #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-10-15",
-      "posted": true,
-      "youtube_video_id": "bu-_wCr2hHw",
-      "instagram_media_id": "18057550013234221",
-      "posted_timestamp": "2025-10-15T16:04:20.712929",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-11-30",
+      "posted": false
     },
     {
       "id": "castle_011",
-      "video_file": "content/videos/Chateau_de_la_Motte_video.mp4",
+      "video_file": "content/videos/Chateau_de_Grainville.mp4",
       "youtube": {
-        "title": "Chateau De La Motte #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Chateau de la Motte castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau De Grainville #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau de Grainville castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -296,24 +226,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Chateau De La Motte #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau De Grainville #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-10-16",
-      "posted": true,
-      "youtube_video_id": "cOWbIqzidNU",
-      "instagram_media_id": "18130608316470840",
-      "posted_timestamp": "2025-10-16T16:04:17.739418",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-12-01",
+      "posted": false
     },
     {
       "id": "castle_012",
-      "video_file": "content/videos/Chateau_de_la_Salle_video.mp4",
+      "video_file": "content/videos/Chateau_de_Lamarque.mp4",
       "youtube": {
-        "title": "Chateau De La Salle #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Chateau de la Salle castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau De Lamarque #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau de Lamarque castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -324,24 +247,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Chateau De La Salle #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau De Lamarque #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-10-17",
-      "posted": true,
-      "youtube_video_id": "zRligdQ26_A",
-      "instagram_media_id": "18081399067999849",
-      "posted_timestamp": "2025-10-17T16:04:19.153182",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-12-02",
+      "posted": false
     },
     {
       "id": "castle_013",
-      "video_file": "content/videos/Chateau_de_Leyzarnie_video.mp4",
+      "video_file": "content/videos/Chateau_de_Landsberg.mp4",
       "youtube": {
-        "title": "Chateau De Leyzarnie #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Chateau de Leyzarnie castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau De Landsberg #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau de Landsberg castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -352,24 +268,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Chateau De Leyzarnie #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau De Landsberg #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-10-18",
-      "posted": true,
-      "youtube_video_id": "UgcRHt23L8A",
-      "instagram_media_id": "17954293811889187",
-      "posted_timestamp": "2025-10-18T16:03:50.262349",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-12-03",
+      "posted": false
     },
     {
       "id": "castle_014",
-      "video_file": "content/videos/Chateau_de_Ribeaucourt_video.mp4",
+      "video_file": "content/videos/Chateau_de_Langeais.mp4",
       "youtube": {
-        "title": "Chateau De Ribeaucourt #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Chateau de Ribeaucourt castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau De Langeais #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau de Langeais castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -380,24 +289,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Chateau De Ribeaucourt #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau De Langeais #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-10-19",
-      "posted": true,
-      "youtube_video_id": "a6PBlLY9JUQ",
-      "instagram_media_id": "18108209449588269",
-      "posted_timestamp": "2025-10-19T16:03:52.732431",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-12-04",
+      "posted": false
     },
     {
       "id": "castle_015",
-      "video_file": "content/videos/Chateau_de_Targe_video.mp4",
+      "video_file": "content/videos/Chateau_de_La_Bruyere.mp4",
       "youtube": {
-        "title": "Chateau De Targe #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Chateau de Targe castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau De La Bruyere #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau de La Bruyere castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -408,24 +310,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Chateau De Targe #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau De La Bruyere #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-10-20",
-      "posted": true,
-      "youtube_video_id": "cJoS6JJaikM",
-      "instagram_media_id": "18190080193332851",
-      "posted_timestamp": "2025-10-20T16:05:03.785081",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-12-05",
+      "posted": false
     },
     {
       "id": "castle_016",
-      "video_file": "content/videos/Chateau_de_Vauvenargues_video.mp4",
+      "video_file": "content/videos/Chateau_de_la_Foret_sur_Sevre.mp4",
       "youtube": {
-        "title": "Chateau De Vauvenargues #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Chateau de Vauvenargues castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau De La Foret Sur Sevre #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau de la Foret sur Sevre castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -436,24 +331,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Chateau De Vauvenargues #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau De La Foret Sur Sevre #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-10-21",
-      "posted": true,
-      "youtube_video_id": "DnLl-uTHanE",
-      "instagram_media_id": "18140297314431358",
-      "posted_timestamp": "2025-10-21T16:04:50.454303",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-12-06",
+      "posted": false
     },
     {
       "id": "castle_017",
-      "video_file": "content/videos/Chateau_de_Villaine_video.mp4",
+      "video_file": "content/videos/Chateau_de_la_Porte.mp4",
       "youtube": {
-        "title": "Chateau De Villaine #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Chateau de Villaine castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau De La Porte #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau de la Porte castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -464,24 +352,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Chateau De Villaine #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau De La Porte #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-10-22",
-      "posted": true,
-      "youtube_video_id": "suLqRZghXAQ",
-      "instagram_media_id": "18083722331485079",
-      "posted_timestamp": "2025-10-22T16:05:03.711604",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-12-07",
+      "posted": false
     },
     {
       "id": "castle_018",
-      "video_file": "content/videos/Chateau_de_Villeneuve_video.mp4",
+      "video_file": "content/videos/Chateau_de_la_Roche_Bagnoles.mp4",
       "youtube": {
-        "title": "Chateau De Villeneuve #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Chateau de Villeneuve castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau De La Roche Bagnoles #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau de la Roche Bagnoles castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -492,24 +373,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Chateau De Villeneuve #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau De La Roche Bagnoles #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-10-23",
-      "posted": true,
-      "youtube_video_id": "sWZd0-qllh8",
-      "instagram_media_id": "18047682065670907",
-      "posted_timestamp": "2025-10-23T16:04:31.351570",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-12-08",
+      "posted": false
     },
     {
       "id": "castle_019",
-      "video_file": "content/videos/Chateau_du_Bois_de_la_Roche_video.mp4",
+      "video_file": "content/videos/Chateau_de_Lesquiffiou.mp4",
       "youtube": {
-        "title": "Chateau Du Bois De La Roche #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Chateau du Bois de la Roche castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau De Lesquiffiou #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau de Lesquiffiou castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -520,24 +394,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Chateau Du Bois De La Roche #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau De Lesquiffiou #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-10-24",
-      "posted": true,
-      "youtube_video_id": "SOxhjHR002w",
-      "instagram_media_id": "18053089172294717",
-      "posted_timestamp": "2025-10-24T16:04:33.335620",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-12-09",
+      "posted": false
     },
     {
       "id": "castle_020",
-      "video_file": "content/videos/Chateau_du_Cros_video.mp4",
+      "video_file": "content/videos/Chateau_de_Machy.mp4",
       "youtube": {
-        "title": "Chateau Du Cros #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Chateau du Cros castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau De Machy #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau de Machy castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -548,24 +415,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Chateau Du Cros #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau De Machy #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-10-25",
-      "posted": true,
-      "youtube_video_id": "m2XfGvqdkm8",
-      "instagram_media_id": "18120889609513817",
-      "posted_timestamp": "2025-10-25T16:04:49.186789",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-12-10",
+      "posted": false
     },
     {
       "id": "castle_021",
-      "video_file": "content/videos/Chateau_du_Mesnil_video.mp4",
+      "video_file": "content/videos/Chateau_de_Montbron.mp4",
       "youtube": {
-        "title": "Chateau Du Mesnil #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Chateau du Mesnil castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau De Montbron #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau de Montbron castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -576,24 +436,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Chateau Du Mesnil #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau De Montbron #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-10-26",
-      "posted": true,
-      "youtube_video_id": "t5Y7CI6oihw",
-      "instagram_media_id": "18092581612842399",
-      "posted_timestamp": "2025-10-26T16:03:50.266983",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-12-11",
+      "posted": false
     },
     {
       "id": "castle_022",
-      "video_file": "content/videos/Chateau_d_Allemagne_en_Provence_video.mp4",
+      "video_file": "content/videos/Chateau_de_Preisch.mp4",
       "youtube": {
-        "title": "Chateau D Allemagne En Provence #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Chateau d Allemagne en Provence castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau De Preisch #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau de Preisch castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -604,24 +457,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Chateau D Allemagne En Provence #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau De Preisch #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-10-27",
-      "posted": true,
-      "youtube_video_id": "BSa5b59rQww",
-      "instagram_media_id": "18061769285164804",
-      "posted_timestamp": "2025-10-27T16:04:00.714615",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-12-12",
+      "posted": false
     },
     {
       "id": "castle_023",
-      "video_file": "content/videos/Chateau_Les_Rochers_video.mp4",
+      "video_file": "content/videos/Chateau_de_Ressouches.mp4",
       "youtube": {
-        "title": "Chateau Les Rochers #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Chateau Les Rochers castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau De Ressouches #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau de Ressouches castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -632,17 +478,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Chateau Les Rochers #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau De Ressouches #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-10-28",
+      "scheduled_date": "2025-12-13",
       "posted": false
     },
     {
       "id": "castle_024",
-      "video_file": "content/videos/Coity_Castle_video.mp4",
+      "video_file": "content/videos/Chateau_de_Saint_Quentin_d_Elle.mp4",
       "youtube": {
-        "title": "Coity Castle #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Coity Castle castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau De Saint Quentin D Elle #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau de Saint Quentin d Elle castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -653,24 +499,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Coity Castle #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau De Saint Quentin D Elle #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-10-29",
-      "posted": true,
-      "youtube_video_id": "UNcvVCHA1EM",
-      "instagram_media_id": "18362960098083873",
-      "posted_timestamp": "2025-10-29T16:05:31.481632",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-12-14",
+      "posted": false
     },
     {
       "id": "castle_025",
-      "video_file": "content/videos/Colcombe_Castle_video.mp4",
+      "video_file": "content/videos/Chateau_de_Saint_Ulrich.mp4",
       "youtube": {
-        "title": "Colcombe Castle #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Colcombe Castle castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau De Saint Ulrich #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau de Saint Ulrich castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -681,24 +520,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Colcombe Castle #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau De Saint Ulrich #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-10-30",
-      "posted": true,
-      "youtube_video_id": "OJ_O1gxIems",
-      "instagram_media_id": "18509651962068958",
-      "posted_timestamp": "2025-10-30T16:04:28.205521",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-12-15",
+      "posted": false
     },
     {
       "id": "castle_026",
-      "video_file": "content/videos/Le_Castellas_video.mp4",
+      "video_file": "content/videos/Chateau_de_Seguin.mp4",
       "youtube": {
-        "title": "Le Castellas #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Le Castellas castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau De Seguin #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau de Seguin castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -709,24 +541,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Le Castellas #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau De Seguin #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-10-31",
-      "posted": true,
-      "youtube_video_id": "IcJDYsesid8",
-      "instagram_media_id": "17872011660448910",
-      "posted_timestamp": "2025-10-31T16:04:25.818651",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-12-16",
+      "posted": false
     },
     {
       "id": "castle_027",
-      "video_file": "content/videos/Le_Logis_video.mp4",
+      "video_file": "content/videos/Chateau_de_Vore.mp4",
       "youtube": {
-        "title": "Le Logis #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Le Logis castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau De Vore #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau de Vore castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -737,24 +562,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Le Logis #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau De Vore #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-11-01",
-      "posted": true,
-      "youtube_video_id": "VItI0F6fcdw",
-      "instagram_media_id": "18543026026005153",
-      "posted_timestamp": "2025-11-01T16:04:01.809599",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-12-17",
+      "posted": false
     },
     {
       "id": "castle_028",
-      "video_file": "content/videos/Naggar_Castle_video.mp4",
+      "video_file": "content/videos/Chateau_du_Bouchet.mp4",
       "youtube": {
-        "title": "Naggar Castle #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Naggar Castle castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau Du Bouchet #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau du Bouchet castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -765,24 +583,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Naggar Castle #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau Du Bouchet #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-11-02",
-      "posted": true,
-      "youtube_video_id": "MdM6jlpQN5Q",
-      "instagram_media_id": "18076305494470168",
-      "posted_timestamp": "2025-11-02T16:04:04.641332",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-12-18",
+      "posted": false
     },
     {
       "id": "castle_029",
-      "video_file": "content/videos/Sundorne_Castle_video.mp4",
+      "video_file": "content/videos/Chateau_du_Plantin.mp4",
       "youtube": {
-        "title": "Sundorne Castle #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Sundorne Castle castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau Du Plantin #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau du Plantin castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -793,24 +604,17 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Sundorne Castle #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau Du Plantin #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-11-03",
-      "posted": true,
-      "youtube_video_id": "R7RT6A8j0aQ",
-      "instagram_media_id": "18026526512729398",
-      "posted_timestamp": "2025-11-03T16:04:31.760805",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-12-19",
+      "posted": false
     },
     {
       "id": "castle_030",
-      "video_file": "content/videos/Wingfield_Castle_video.mp4",
+      "video_file": "content/videos/Chateau_d_Anizy.mp4",
       "youtube": {
-        "title": "Wingfield Castle #castles #castlesworldwide #CastleLovers #shorts",
-        "description": "Explore the magnificent Wingfield Castle castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "title": "Chateau D Anizy #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau d Anizy castle! #castles #castlesworldwide #CastleLovers #shorts",
         "tags": [
           "castles",
           "castlesworldwide",
@@ -821,17 +625,136 @@
         ]
       },
       "instagram": {
-        "caption": "🏰 Wingfield Castle #castles #castlesworldwide #CastleLovers #shorts ✨"
+        "caption": "🏰 Chateau D Anizy #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
-      "scheduled_date": "2025-11-04",
-      "posted": true,
-      "youtube_video_id": "2b15Ho2DKFU",
-      "instagram_media_id": "18140946343446229",
-      "posted_timestamp": "2025-11-04T16:05:20.708280",
-      "platforms_posted": {
-        "youtube": true,
-        "instagram": true
-      }
+      "scheduled_date": "2025-12-20",
+      "posted": false
+    },
+    {
+      "id": "castle_031",
+      "video_file": "content/videos/Chateau_d_Esvres.mp4",
+      "youtube": {
+        "title": "Chateau D Esvres #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau d Esvres castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "tags": [
+          "castles",
+          "castlesworldwide",
+          "CastleLovers",
+          "shorts",
+          "history",
+          "architecture"
+        ]
+      },
+      "instagram": {
+        "caption": "🏰 Chateau D Esvres #castles #castlesworldwide #CastleLovers #shorts ✨"
+      },
+      "scheduled_date": "2025-12-21",
+      "posted": false
+    },
+    {
+      "id": "castle_032",
+      "video_file": "content/videos/Chateau_d_Orschwihr.mp4",
+      "youtube": {
+        "title": "Chateau D Orschwihr #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Chateau d Orschwihr castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "tags": [
+          "castles",
+          "castlesworldwide",
+          "CastleLovers",
+          "shorts",
+          "history",
+          "architecture"
+        ]
+      },
+      "instagram": {
+        "caption": "🏰 Chateau D Orschwihr #castles #castlesworldwide #CastleLovers #shorts ✨"
+      },
+      "scheduled_date": "2025-12-22",
+      "posted": false
+    },
+    {
+      "id": "castle_033",
+      "video_file": "content/videos/Fingask_Castle.mp4",
+      "youtube": {
+        "title": "Fingask Castle #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Fingask Castle castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "tags": [
+          "castles",
+          "castlesworldwide",
+          "CastleLovers",
+          "shorts",
+          "history",
+          "architecture"
+        ]
+      },
+      "instagram": {
+        "caption": "🏰 Fingask Castle #castles #castlesworldwide #CastleLovers #shorts ✨"
+      },
+      "scheduled_date": "2025-12-23",
+      "posted": false
+    },
+    {
+      "id": "castle_034",
+      "video_file": "content/videos/Le_Pechalbet.mp4",
+      "youtube": {
+        "title": "Le Pechalbet #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Le Pechalbet castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "tags": [
+          "castles",
+          "castlesworldwide",
+          "CastleLovers",
+          "shorts",
+          "history",
+          "architecture"
+        ]
+      },
+      "instagram": {
+        "caption": "🏰 Le Pechalbet #castles #castlesworldwide #CastleLovers #shorts ✨"
+      },
+      "scheduled_date": "2025-12-24",
+      "posted": false
+    },
+    {
+      "id": "castle_035",
+      "video_file": "content/videos/New_Castle.mp4",
+      "youtube": {
+        "title": "New Castle #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent New Castle castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "tags": [
+          "castles",
+          "castlesworldwide",
+          "CastleLovers",
+          "shorts",
+          "history",
+          "architecture"
+        ]
+      },
+      "instagram": {
+        "caption": "🏰 New Castle #castles #castlesworldwide #CastleLovers #shorts ✨"
+      },
+      "scheduled_date": "2025-12-25",
+      "posted": false
+    },
+    {
+      "id": "castle_036",
+      "video_file": "content/videos/Powrie_Castle.mp4",
+      "youtube": {
+        "title": "Powrie Castle #castles #castlesworldwide #CastleLovers #shorts",
+        "description": "Explore the magnificent Powrie Castle castle! #castles #castlesworldwide #CastleLovers #shorts",
+        "tags": [
+          "castles",
+          "castlesworldwide",
+          "CastleLovers",
+          "shorts",
+          "history",
+          "architecture"
+        ]
+      },
+      "instagram": {
+        "caption": "🏰 Powrie Castle #castles #castlesworldwide #CastleLovers #shorts ✨"
+      },
+      "scheduled_date": "2025-12-26",
+      "posted": false
     }
   ]
 }

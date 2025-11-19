@@ -176,9 +176,15 @@ def download_image(image_url, image_path):
     Download an image from a URL to a local path.
     """
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
+        "User-Agent": "MyImageDownloader/1.0 (nadders98@gmail.com)",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://commons.wikimedia.org/",
+        "Connection": "keep-alive",
     }
-    response = requests.get(image_url, stream=True, headers=headers)
+    session = requests.Session()
+    session.headers.update(headers)
+    response = session.get(image_url)
     if response.status_code == 200:
         with open(image_path, 'wb') as file:
             for chunk in response.iter_content(chunk_size=128):
@@ -436,21 +442,22 @@ def process_castle_spreadsheet(csv_path, output_dir="holding_castle_videos", sta
             # Prepare file paths
             audio_path = os.path.join(output_dir, f"{safe_name}_audio.mp3")
             subtitle_path = os.path.join(output_dir, f"{safe_name}_subtitles.srt")
-            video_path = os.path.join(output_dir, f"{safe_name}_video.mp4")
+            video_path = os.path.join(output_dir, f"{safe_name}.mp4")
             
             # Step 1: Download all images
             image_paths = []
             for i, url in enumerate(image_urls):
                 image_path = os.path.join(temp_dir, f"{safe_name}_image_{i}.jpg")
                 print(f"Downloading image {i+1}/{len(image_urls)} for {castle_name}...")
+                time.sleep(2)  # brief pause to avoid overwhelming servers
                 try:
                     if download_image(url, image_path):
                         image_paths.append(image_path)
                     else:
-                        print(f"Failed to download image {i+1} - skipping this image")
+                        print(f"Failed to download image {i+1} - skipping this image", url)
                     
                 except Exception as e:
-                    print(f"Error downloading image {i+1}: {e}")            
+                    print(f"Error downloading image {i+1}: {e}" )            
             if not image_paths:
                 print(f"No images could be downloaded for {castle_name} - skipping")
                 continue
@@ -508,4 +515,4 @@ def process_castle_spreadsheet(csv_path, output_dir="holding_castle_videos", sta
 if __name__ == "__main__":
     if ffmpeg_availability_check():
         # Process the castle spreadsheet
-        process_castle_spreadsheet('outputs/final/only_castles_v4.csv', start_index=205, jump=15)
+        process_castle_spreadsheet('outputs/final/only_castles_v4.csv', start_index=260, jump=10)

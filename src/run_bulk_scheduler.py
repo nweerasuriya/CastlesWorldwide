@@ -17,7 +17,7 @@ def main():
     print("=" * 40)
     
     # Get user input (with your defaults)
-    start_date = input("Enter start date (DD/MM/YYYY HH:MM) [04/09/2025]: ") or "04/09/2025"
+    start_date = input("Enter start date (DD/MM/YYYY HH:MM) [04/09/2025]: ") or "21/11/2025"
     start_date += " 17:20"  # Default time
     video_dir = "holding_castle_videos"
     frequency = 1
@@ -27,14 +27,14 @@ def main():
         print(f"❌ Directory {video_dir} not found!")
         return
     
-    castle_files = [f for f in os.listdir(video_dir) if f.endswith('_video.mp4')]
+    castle_files = [f for f in os.listdir(video_dir) if f.endswith('.mp4')]
     if not castle_files:
-        print(f"❌ No castle videos (*_video.mp4) found in {video_dir}")
+        print(f"❌ No castle videos (*.mp4) found in {video_dir}")
         return
     
     print(f"\n📹 Found {len(castle_files)} castle videos:")
     for i, filename in enumerate(castle_files[:5], 1):  # Show first 5
-        castle_name = filename.split('_video')[0].replace('_', ' ').title()
+        castle_name = filename.split('.mp4')[0].replace('_', ' ').title()
         print(f"  {i}. {castle_name}")
     if len(castle_files) > 5:
         print(f"  ... and {len(castle_files) - 5} more")
