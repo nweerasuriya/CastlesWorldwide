@@ -15,8 +15,8 @@ def get_castle_names_from_videos(directory):
     """Extract castle names from directory - same as your original logic"""
     castle_names = []
     for filename in os.listdir(directory):
-        if filename.endswith("_video.mp4"):
-            castle_name = filename.split('_video')[0]
+        if filename.endswith(".mp4"):
+            castle_name = filename.split('.mp4')[0]
             castle_names.append({
                 'name': castle_name,
                 'filename': filename
