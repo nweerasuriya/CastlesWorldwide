@@ -47,7 +47,14 @@
         "caption": "🏰 Chateau Des Ternes #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-11-22",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "QbmHrJfsyBA",
+      "instagram_media_id": "18076296467350824",
+      "posted_timestamp": "2025-11-22T16:04:29.053086",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_003",
