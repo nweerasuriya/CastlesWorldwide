@@ -75,7 +75,14 @@
         "caption": "🏰 Chateau De Beaumont #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-11-23",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "mLWggCjYq58",
+      "instagram_media_id": "18040503350687780",
+      "posted_timestamp": "2025-11-23T16:04:58.200459",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_004",
