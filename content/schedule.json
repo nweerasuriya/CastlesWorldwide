@@ -131,7 +131,14 @@
         "caption": "🏰 Chateau De Bonaguil #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-11-25",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "X0ElgDtRsts",
+      "instagram_media_id": "18574943878022161",
+      "posted_timestamp": "2025-11-25T16:04:47.339099",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_006",
