@@ -159,7 +159,14 @@
         "caption": "🏰 Chateau De Bourdeilles #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-11-26",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "j5Yq2cLWL-k",
+      "instagram_media_id": "18071843771461528",
+      "posted_timestamp": "2025-11-26T16:06:56.039713",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_007",
