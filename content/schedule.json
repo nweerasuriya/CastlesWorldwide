@@ -187,7 +187,14 @@
         "caption": "🏰 Chateau De Cassis #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-11-27",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "cQcGT7gJlXg",
+      "instagram_media_id": "18073786775023912",
+      "posted_timestamp": "2025-11-27T16:04:56.604013",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_008",
