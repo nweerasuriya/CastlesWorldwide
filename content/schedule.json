@@ -215,7 +215,14 @@
         "caption": "🏰 Chateau De Choisel #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-11-28",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "YyrwJSS-fPE",
+      "instagram_media_id": "18063142700636127",
+      "posted_timestamp": "2025-11-28T16:05:24.119472",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_009",
