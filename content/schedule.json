@@ -243,7 +243,14 @@
         "caption": "🏰 Chateau De Clos Vougeot #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-11-29",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "KQyJYR-W154",
+      "instagram_media_id": "18123117751465048",
+      "posted_timestamp": "2025-11-29T16:04:35.514771",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_010",
