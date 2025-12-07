@@ -467,7 +467,14 @@
         "caption": "🏰 Chateau De La Porte #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-12-07",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "dwr6h9RpB-U",
+      "instagram_media_id": "17991294116898081",
+      "posted_timestamp": "2025-12-07T16:03:56.360101",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_018",
