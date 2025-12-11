@@ -579,7 +579,14 @@
         "caption": "🏰 Chateau De Montbron #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-12-11",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "VCwLSJ2_uRg",
+      "instagram_media_id": "18109332238620762",
+      "posted_timestamp": "2025-12-11T16:05:14.753639",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_022",
