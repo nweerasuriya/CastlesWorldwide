@@ -747,7 +747,14 @@
         "caption": "🏰 Chateau De Vore #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-12-17",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "wsClMOrnyfQ",
+      "instagram_media_id": "18137375959467756",
+      "posted_timestamp": "2025-12-17T16:05:05.489012",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_028",
