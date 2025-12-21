@@ -852,7 +852,14 @@
         "caption": "🏰 Chateau D Esvres #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-12-21",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "F26hZ4kPLa0",
+      "instagram_media_id": "18549226579035662",
+      "posted_timestamp": "2025-12-21T16:04:19.532308",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_032",
