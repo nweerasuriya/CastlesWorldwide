@@ -964,7 +964,14 @@
         "caption": "🏰 New Castle #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-12-25",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "HiHNWOzqi6o",
+      "instagram_media_id": "18076873193255487",
+      "posted_timestamp": "2025-12-25T16:04:46.110731",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_036",
