@@ -992,7 +992,14 @@
         "caption": "🏰 Powrie Castle #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2025-12-26",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "3SPjp2h3qtg",
+      "instagram_media_id": "17937535782129051",
+      "posted_timestamp": "2025-12-26T16:04:43.637014",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     }
   ]
 }
