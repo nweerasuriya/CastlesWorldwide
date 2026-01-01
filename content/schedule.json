@@ -40,7 +40,14 @@
         "caption": "🏰 Chateau De Baraigne #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-01-01",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "JVmk_Znsj38",
+      "instagram_media_id": "18090881339311466",
+      "posted_timestamp": "2026-01-01T16:05:32.420038",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_003",
