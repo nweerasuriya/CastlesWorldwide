@@ -68,7 +68,14 @@
         "caption": "🏰 Chateau De Baume #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-01-02",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "I7IFFhoMmOE",
+      "instagram_media_id": "17944460309962269",
+      "posted_timestamp": "2026-01-02T16:05:05.120170",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_004",
