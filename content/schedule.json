@@ -124,7 +124,14 @@
         "caption": "🏰 Chateau De Chateauneuf #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-01-04",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "6kxU15qd96w",
+      "instagram_media_id": "17900349813359819",
+      "posted_timestamp": "2026-01-04T16:04:22.896182",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_006",
