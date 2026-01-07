@@ -208,7 +208,14 @@
         "caption": "🏰 Chateau De Corcelles #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-01-07",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "13_Vk4ACiGM",
+      "instagram_media_id": "18055627280366913",
+      "posted_timestamp": "2026-01-07T16:06:08.338825",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_009",
