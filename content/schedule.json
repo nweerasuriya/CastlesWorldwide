@@ -236,7 +236,14 @@
         "caption": "🏰 Chateau De Cramirat #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-01-08",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "NfJlQdG7q-Y",
+      "instagram_media_id": "17979941069954923",
+      "posted_timestamp": "2026-01-08T16:06:12.283023",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_010",
