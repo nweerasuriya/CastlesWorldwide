@@ -264,7 +264,14 @@
         "caption": "🏰 Chateau De La Luziere #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-01-09",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "3sVu33pAwEA",
+      "instagram_media_id": "17968090826997643",
+      "posted_timestamp": "2026-01-09T16:04:38.200954",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_011",
