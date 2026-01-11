@@ -320,7 +320,14 @@
         "caption": "🏰 Chateau De La Prade #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-01-11",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "RN6otBWt5Zc",
+      "instagram_media_id": "18309885439266993",
+      "posted_timestamp": "2026-01-11T16:04:58.642699",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_013",
