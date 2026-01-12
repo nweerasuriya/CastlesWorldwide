@@ -348,7 +348,14 @@
         "caption": "🏰 Chateau De Miglos #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-01-12",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "kZD2hH3IsJU",
+      "instagram_media_id": "18121603087494472",
+      "posted_timestamp": "2026-01-12T16:05:36.326000",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_014",
