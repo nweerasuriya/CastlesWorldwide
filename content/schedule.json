@@ -460,7 +460,14 @@
         "caption": "🏰 Chateau De Saint Georges #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-01-16",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "2aEEE5Z77BM",
+      "instagram_media_id": "18117523771588290",
+      "posted_timestamp": "2026-01-16T16:05:37.933199",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_018",
