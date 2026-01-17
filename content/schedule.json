@@ -488,7 +488,14 @@
         "caption": "🏰 Chateau De Saint Leger #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-01-17",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "bwEIJSVhUt0",
+      "instagram_media_id": "18108904141727543",
+      "posted_timestamp": "2026-01-17T16:04:23.502011",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_019",
