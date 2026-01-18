@@ -516,7 +516,14 @@
         "caption": "🏰 Chateau De Saint Saturnin #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-01-18",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "tTOq0QrUxVY",
+      "instagram_media_id": "18086871953026549",
+      "posted_timestamp": "2026-01-18T16:04:04.763067",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_020",
