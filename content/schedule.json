@@ -572,7 +572,14 @@
         "caption": "🏰 Chateau De Talcy #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-01-20",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "zvzkox96h3g",
+      "instagram_media_id": "18069773450620844",
+      "posted_timestamp": "2026-01-20T16:07:43.944182",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_022",
