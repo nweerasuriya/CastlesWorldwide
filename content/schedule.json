@@ -600,7 +600,14 @@
         "caption": "🏰 Chateau De Vendome #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-01-21",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "Gn6KZmEbTQw",
+      "instagram_media_id": "18087567257115081",
+      "posted_timestamp": "2026-01-21T16:08:28.324582",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_023",
