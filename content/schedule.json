@@ -628,7 +628,14 @@
         "caption": "🏰 Chateau De Villemonteix #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-01-22",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "3Imf5rpI8wA",
+      "instagram_media_id": "18088252436032396",
+      "posted_timestamp": "2026-01-22T16:07:29.139220",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_024",
