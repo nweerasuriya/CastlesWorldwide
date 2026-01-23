@@ -656,7 +656,14 @@
         "caption": "🏰 Chateau Du Haut Ribeaupierre #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-01-23",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "ywENLC4uLCg",
+      "instagram_media_id": "18089173622090928",
+      "posted_timestamp": "2026-01-23T16:06:51.090326",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_025",
