@@ -684,7 +684,14 @@
         "caption": "🏰 Chateau Du Hohlandsbourg #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-01-24",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "cxpMmgL_POA",
+      "instagram_media_id": "17967701445007621",
+      "posted_timestamp": "2026-01-24T16:04:05.891063",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_026",
