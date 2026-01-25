@@ -712,7 +712,14 @@
         "caption": "🏰 Chateau D Auvilliers #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-01-25",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "Ffw401qqA6E",
+      "instagram_media_id": "17994383531739953",
+      "posted_timestamp": "2026-01-25T16:04:56.113006",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_027",
