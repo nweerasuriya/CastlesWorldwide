@@ -740,7 +740,14 @@
         "caption": "🏰 Chateau D Esmans #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-01-26",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "MLNk9IKdexA",
+      "instagram_media_id": "18073843493575262",
+      "posted_timestamp": "2026-01-26T16:07:04.254824",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_028",
