@@ -768,7 +768,14 @@
         "caption": "🏰 Chateau Saint Hugues #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-01-27",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "r8RGz17EIC4",
+      "instagram_media_id": "18074067041378391",
+      "posted_timestamp": "2026-01-27T16:06:24.938151",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_029",
