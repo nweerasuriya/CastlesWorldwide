@@ -796,7 +796,14 @@
         "caption": "🏰 Domaine De La Maison Forte #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-01-28",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "jNg344PTOfg",
+      "instagram_media_id": "17923151433232367",
+      "posted_timestamp": "2026-01-28T16:08:52.385059",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_030",
