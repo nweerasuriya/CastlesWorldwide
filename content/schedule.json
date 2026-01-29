@@ -824,7 +824,14 @@
         "caption": "🏰 Domaine Du Grand Saint Jean #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-01-29",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "ObtLa3FfqQg",
+      "instagram_media_id": "18077254799346391",
+      "posted_timestamp": "2026-01-29T16:11:11.996468",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_031",
