@@ -880,7 +880,14 @@
         "caption": "🏰 Le Vieux Chateau #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-01-31",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "gk2wSReUjpI",
+      "instagram_media_id": "17875949625398773",
+      "posted_timestamp": "2026-01-31T16:04:36.939342",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_033",
