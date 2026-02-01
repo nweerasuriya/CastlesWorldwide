@@ -908,7 +908,14 @@
         "caption": "🏰 Maison Forte Dite Le Vieux Chateau #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-02-01",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "K3exPKGMz8I",
+      "instagram_media_id": "18146827867404779",
+      "posted_timestamp": "2026-02-01T16:04:57.803881",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_034",
