@@ -936,7 +936,14 @@
         "caption": "🏰 Wressle Castle #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-02-02",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "vA6IpseUS4o",
+      "instagram_media_id": "18089643622852186",
+      "posted_timestamp": "2026-02-02T16:09:34.882024",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     }
   ]
 }
