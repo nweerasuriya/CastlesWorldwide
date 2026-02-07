@@ -47,7 +47,14 @@
         "caption": "🏰 Chateau De Ballon #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-02-07",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "Yabuenctfg4",
+      "instagram_media_id": "18106814296753882",
+      "posted_timestamp": "2026-02-07T16:05:34.348669",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_003",
