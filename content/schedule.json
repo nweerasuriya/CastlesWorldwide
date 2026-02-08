@@ -75,7 +75,14 @@
         "caption": "🏰 Chateau De Bellefond #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-02-08",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "04EZvgS4SEY",
+      "instagram_media_id": "18311006248265493",
+      "posted_timestamp": "2026-02-08T16:06:11.987510",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_004",
