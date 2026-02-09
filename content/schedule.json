@@ -103,7 +103,14 @@
         "caption": "🏰 Chateau De Brailly Cornehotte #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-02-09",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "83hNOaUE-24",
+      "instagram_media_id": "18125698453557109",
+      "posted_timestamp": "2026-02-09T16:21:29.944082",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_005",
