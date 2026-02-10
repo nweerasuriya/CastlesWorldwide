@@ -131,7 +131,14 @@
         "caption": "🏰 Chateau De Brissac #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-02-10",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "atYNngsEDRM",
+      "instagram_media_id": "18088907120517467",
+      "posted_timestamp": "2026-02-10T16:23:25.170348",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_006",
