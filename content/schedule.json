@@ -159,7 +159,14 @@
         "caption": "🏰 Chateau De Callac #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-02-11",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "J-yowFRbY5w",
+      "instagram_media_id": "18085557857336744",
+      "posted_timestamp": "2026-02-11T16:22:48.520359",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_007",
