@@ -187,7 +187,14 @@
         "caption": "🏰 Chateau De Cambayrac #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-02-12",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "TWebUuBjCaM",
+      "instagram_media_id": "18043775231720700",
+      "posted_timestamp": "2026-02-12T16:19:20.888635",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_008",
