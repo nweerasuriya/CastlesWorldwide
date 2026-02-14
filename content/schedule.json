@@ -243,7 +243,13 @@
         "caption": "🏰 Chateau De Chaumont #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-02-14",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "KiCDn0Hvy2U",
+      "posted_timestamp": "2026-02-14T16:04:49.249195",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": false
+      }
     },
     {
       "id": "castle_010",
