@@ -270,7 +270,14 @@
         "caption": "🏰 Chateau De Chavaniac #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-02-15",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "Xdoa8IRKDqA",
+      "instagram_media_id": "17996700677879830",
+      "posted_timestamp": "2026-02-15T16:05:24.386370",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_011",
