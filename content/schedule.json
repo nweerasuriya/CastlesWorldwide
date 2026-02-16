@@ -298,7 +298,14 @@
         "caption": "🏰 Chateau De Courances #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-02-16",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "fMGlSAqQOQI",
+      "instagram_media_id": "18116397115546994",
+      "posted_timestamp": "2026-02-16T16:13:12.883381",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_012",
