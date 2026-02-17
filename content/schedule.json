@@ -326,7 +326,14 @@
         "caption": "🏰 Chateau De Froeschwiller #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-02-17",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "IyKiOIYI5vQ",
+      "instagram_media_id": "18171373081381330",
+      "posted_timestamp": "2026-02-17T16:18:44.539244",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_013",
