@@ -410,7 +410,14 @@
         "caption": "🏰 Chateau De Levesville #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-02-20",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "keEstQAK6lw",
+      "instagram_media_id": "18196586155338187",
+      "posted_timestamp": "2026-02-20T16:11:08.471413",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_016",
