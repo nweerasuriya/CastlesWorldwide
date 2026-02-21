@@ -438,7 +438,14 @@
         "caption": "🏰 Chateau De Loches #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-02-21",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "O1ViDq5IEPM",
+      "instagram_media_id": "17880756153469910",
+      "posted_timestamp": "2026-02-21T16:05:40.956996",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_017",
