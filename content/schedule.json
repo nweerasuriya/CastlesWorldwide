@@ -466,7 +466,14 @@
         "caption": "🏰 Chateau De Meslay #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-02-22",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "nhpdo-YME14",
+      "instagram_media_id": "18305758633282016",
+      "posted_timestamp": "2026-02-22T16:05:56.637662",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_018",
