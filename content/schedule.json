@@ -494,7 +494,14 @@
         "caption": "🏰 Chateau De Montaigne #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-02-23",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "cnyrk1xwp5A",
+      "instagram_media_id": "18442995937108783",
+      "posted_timestamp": "2026-02-23T16:42:24.949061",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_019",
