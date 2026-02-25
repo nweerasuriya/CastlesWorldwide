@@ -550,7 +550,14 @@
         "caption": "🏰 Chateau Du Breuil #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-02-25",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "7WVoaJql1Qc",
+      "instagram_media_id": "18113228407733531",
+      "posted_timestamp": "2026-02-25T16:25:05.718680",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_021",
