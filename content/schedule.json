@@ -578,7 +578,13 @@
         "caption": "🏰 Chateau Du Broutel #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-02-26",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "8VBLo0HabO0",
+      "posted_timestamp": "2026-02-26T16:19:20.634711",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": false
+      }
     },
     {
       "id": "castle_022",
