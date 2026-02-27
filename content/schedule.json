@@ -605,7 +605,14 @@
         "caption": "🏰 Chateau Du Magny #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-02-27",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "Jtz_SDKtyXg",
+      "instagram_media_id": "17854319154594734",
+      "posted_timestamp": "2026-02-27T16:11:08.921550",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_023",
