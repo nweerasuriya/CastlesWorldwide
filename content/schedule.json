@@ -633,7 +633,14 @@
         "caption": "🏰 Chateau Pressac #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-02-28",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "wP3hRVDfKrU",
+      "instagram_media_id": "18082353491581658",
+      "posted_timestamp": "2026-02-28T16:05:29.874470",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_024",
