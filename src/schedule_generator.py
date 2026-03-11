@@ -27,7 +27,8 @@ def get_castle_description(start_date, video_directory, freq=1):
     """Generate castle posting schedule - adapted from your original logic"""
     castle_data = get_castle_names_from_videos(video_directory)
     castle_df = pd.DataFrame(castle_data)
-    
+    # Randomise the order of castles to ensure varied posting
+    castle_df = castle_df.sample(frac=1).reset_index(drop=True)
     total_days_needed = len(castle_df) * freq
     # calculate the end date based on the start date and total days needed
     end_date = pd.to_datetime(start_date, format='%d/%m/%Y %H:%M') + pd.Timedelta(days=total_days_needed)
