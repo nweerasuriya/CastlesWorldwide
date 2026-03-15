@@ -103,7 +103,14 @@
         "caption": "🏰 Himeji Castle #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-03-15",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "y7aexp5m3Ws",
+      "instagram_media_id": "17953739631089476",
+      "posted_timestamp": "2026-03-15T16:07:14.305465",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_005",
