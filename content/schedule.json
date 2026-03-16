@@ -131,7 +131,13 @@
         "caption": "🏰 Chateau Des Cardaillac #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-03-16",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "NoZNEQj8hEs",
+      "posted_timestamp": "2026-03-16T16:21:52.128217",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": false
+      }
     },
     {
       "id": "castle_006",
