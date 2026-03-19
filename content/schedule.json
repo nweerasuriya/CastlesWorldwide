@@ -214,7 +214,14 @@
         "caption": "🏰 Chateau De Cascastel #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-03-19",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "Njea27crjJY",
+      "instagram_media_id": "18118677871618339",
+      "posted_timestamp": "2026-03-19T16:18:57.206182",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_009",
