@@ -242,7 +242,14 @@
         "caption": "🏰 Diosgyori Var #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-03-20",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "Y82ygOfulAg",
+      "instagram_media_id": "17906640534205398",
+      "posted_timestamp": "2026-03-20T16:13:54.015860",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_010",
