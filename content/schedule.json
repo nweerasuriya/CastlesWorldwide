@@ -298,7 +298,14 @@
         "caption": "🏰 Chateau De Sain Bel #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-03-22",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "lGx9Gfz523U",
+      "instagram_media_id": "18071589632234627",
+      "posted_timestamp": "2026-03-22T16:05:44.550505",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_012",
