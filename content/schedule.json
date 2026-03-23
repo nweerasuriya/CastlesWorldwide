@@ -326,7 +326,14 @@
         "caption": "🏰 Endegeest #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-03-23",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "Ec7PG4062o0",
+      "instagram_media_id": "17850501594659713",
+      "posted_timestamp": "2026-03-23T16:19:44.491817",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_013",
