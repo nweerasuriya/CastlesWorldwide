@@ -354,7 +354,14 @@
         "caption": "🏰 Edo Castle #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-03-24",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "OdUouZDSGX4",
+      "instagram_media_id": "18085592174256674",
+      "posted_timestamp": "2026-03-24T16:23:06.848309",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_014",
