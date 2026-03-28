@@ -466,7 +466,14 @@
         "caption": "🏰 Chateau De Sourdeac #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-03-28",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "Ilqwjvr8Aqw",
+      "instagram_media_id": "18515666284076052",
+      "posted_timestamp": "2026-03-28T16:07:33.441799",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_018",
