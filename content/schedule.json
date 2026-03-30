@@ -522,7 +522,14 @@
         "caption": "🏰 Burg Neuhaus #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-03-30",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "YzJCs4r-VZ4",
+      "instagram_media_id": "18042313955587995",
+      "posted_timestamp": "2026-03-30T16:22:19.278001",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_020",
