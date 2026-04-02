@@ -606,7 +606,14 @@
         "caption": "🏰 Chateau De Dreistein Occidental #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-04-02",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "QnBNNDx0GRw",
+      "instagram_media_id": "18064048655453476",
+      "posted_timestamp": "2026-04-02T16:20:07.346368",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_023",
