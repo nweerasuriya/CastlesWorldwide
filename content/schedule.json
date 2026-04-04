@@ -662,7 +662,14 @@
         "caption": "🏰 Chateau De Saint Pont #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-04-04",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "DY1e0DFGY2w",
+      "instagram_media_id": "18118300669637666",
+      "posted_timestamp": "2026-04-04T16:07:42.608617",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_025",
