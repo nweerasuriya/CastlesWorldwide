@@ -510,9 +510,9 @@ def process_castle_spreadsheet(csv_path, output_dir="holding_castle_videos", sta
         except Exception as e:
             print(f"Error processing {castle_name}: {e}")
 
-
+# 445
 # Main execution
 if __name__ == "__main__":
     if ffmpeg_availability_check():
         # Process the castle spreadsheet
-        process_castle_spreadsheet('outputs/final/only_castles_v4.csv', start_index=425, jump=20)
+        process_castle_spreadsheet('outputs/final/only_castles_v4.csv', start_index=470, jump=20)
