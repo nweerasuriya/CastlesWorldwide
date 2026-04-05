@@ -32,6 +32,7 @@ def main():
         return
     
     print(f"\n📹 Found {len(castle_files)} castle videos:")
+
     for i, filename in enumerate(castle_files[:5], 1):  # Show first 5
         castle_name = filename.split('.mp4')[0].replace('_', ' ').title()
         print(f"  {i}. {castle_name}")
