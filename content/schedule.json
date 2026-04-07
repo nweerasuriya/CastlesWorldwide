@@ -47,7 +47,14 @@
         "caption": "🏰 Burg Cloppenburg #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-04-07",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "7p1uuaGytLc",
+      "instagram_media_id": "18146409772488940",
+      "posted_timestamp": "2026-04-07T16:23:08.375788",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_003",
