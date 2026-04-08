@@ -75,7 +75,14 @@
         "caption": "🏰 Chateau De Latour #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-04-08",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "PnHsEC7GDYY",
+      "instagram_media_id": "18119578540621842",
+      "posted_timestamp": "2026-04-08T16:26:24.315530",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_004",
