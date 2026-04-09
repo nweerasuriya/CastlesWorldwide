@@ -103,7 +103,14 @@
         "caption": "🏰 Haus Kemnade #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-04-09",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "AG1LHxXmPaI",
+      "instagram_media_id": "17937172815037721",
+      "posted_timestamp": "2026-04-09T16:29:19.084919",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_005",
