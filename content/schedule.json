@@ -131,7 +131,14 @@
         "caption": "🏰 Chateau De Lafitte #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-04-10",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "yJiEHIoPiKk",
+      "instagram_media_id": "18463413079101918",
+      "posted_timestamp": "2026-04-10T16:18:24.348908",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_006",
