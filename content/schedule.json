@@ -159,7 +159,14 @@
         "caption": "🏰 Bernstein Castle #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-04-11",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "1kWZHmFeNJ4",
+      "instagram_media_id": "18079941029627054",
+      "posted_timestamp": "2026-04-11T16:08:22.866226",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_007",
