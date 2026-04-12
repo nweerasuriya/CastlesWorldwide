@@ -187,7 +187,14 @@
         "caption": "🏰 Chateau De Geay #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-04-12",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "9dDRNysLCHw",
+      "instagram_media_id": "18262631092288107",
+      "posted_timestamp": "2026-04-12T16:10:22.788016",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_008",
