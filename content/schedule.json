@@ -243,7 +243,14 @@
         "caption": "🏰 Chateau De Crillon Le Brave #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-04-14",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "D8SA5Lx0pQk",
+      "instagram_media_id": "18575277745055935",
+      "posted_timestamp": "2026-04-14T16:25:59.196501",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_010",
