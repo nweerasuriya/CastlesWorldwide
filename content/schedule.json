@@ -271,7 +271,14 @@
         "caption": "🏰 Araburg #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-04-15",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "hSoQQs3nX1M",
+      "instagram_media_id": "17883240879511301",
+      "posted_timestamp": "2026-04-15T16:22:33.838056",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_011",
