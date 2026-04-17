@@ -327,7 +327,14 @@
         "caption": "🏰 Castelo De Castroverde #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-04-17",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "fXvmz4_vozI",
+      "instagram_media_id": "18104119144936926",
+      "posted_timestamp": "2026-04-17T16:20:13.231882",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_013",
