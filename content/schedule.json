@@ -355,7 +355,14 @@
         "caption": "🏰 Ancien Chateau De La Roque Valzergues #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-04-18",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "z77AFmLS_VA",
+      "instagram_media_id": "17881417443544780",
+      "posted_timestamp": "2026-04-18T16:10:59.751063",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_014",
