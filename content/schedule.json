@@ -383,7 +383,14 @@
         "caption": "🏰 Hrad Nove Hrady #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-04-19",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "X7Qw_t4r75w",
+      "instagram_media_id": "17874843789586985",
+      "posted_timestamp": "2026-04-19T16:11:49.402361",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_015",
