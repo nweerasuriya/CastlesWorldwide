@@ -411,7 +411,14 @@
         "caption": "🏰 Chateau Du Vales #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-04-20",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "_a5Zy89YKfM",
+      "instagram_media_id": "18094470974112141",
+      "posted_timestamp": "2026-04-20T16:26:52.572675",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_016",
