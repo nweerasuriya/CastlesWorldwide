@@ -467,7 +467,14 @@
         "caption": "🏰 Matsuyama #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-04-22",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "__JBjNq1_3k",
+      "instagram_media_id": "18109052269674532",
+      "posted_timestamp": "2026-04-22T16:24:12.956566",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_018",
