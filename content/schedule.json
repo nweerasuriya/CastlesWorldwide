@@ -495,7 +495,14 @@
         "caption": "🏰 Chateau De Turckheim #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-04-23",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "itO7zXKwxo8",
+      "instagram_media_id": "17938554429081590",
+      "posted_timestamp": "2026-04-23T16:33:03.825418",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_019",
