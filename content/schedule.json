@@ -523,7 +523,14 @@
         "caption": "🏰 Chateau Du Moulin #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-04-24",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "WzBLVaCQfXU",
+      "instagram_media_id": "17857694811634380",
+      "posted_timestamp": "2026-04-24T16:20:15.137343",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_020",
