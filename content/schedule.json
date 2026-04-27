@@ -607,7 +607,14 @@
         "caption": "🏰 Neuschwanstein Castle #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-04-27",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "DoUcXLeMaaI",
+      "instagram_media_id": "17924382240313357",
+      "posted_timestamp": "2026-04-27T16:32:42.929220",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_023",
