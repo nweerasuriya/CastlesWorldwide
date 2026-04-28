@@ -635,7 +635,14 @@
         "caption": "🏰 Chateau De Roquefere #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-04-28",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "_8i12OuncW4",
+      "instagram_media_id": "18029270291627984",
+      "posted_timestamp": "2026-04-28T16:36:16.253736",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_024",
