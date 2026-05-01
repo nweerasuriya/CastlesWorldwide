@@ -719,7 +719,14 @@
         "caption": "🏰 Altenburg #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-05-01",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "S7DskNWDP_c",
+      "instagram_media_id": "17940592842206881",
+      "posted_timestamp": "2026-05-01T16:20:31.301228",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_027",
