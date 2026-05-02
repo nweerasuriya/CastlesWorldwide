@@ -747,7 +747,14 @@
         "caption": "🏰 Castel Belforte #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-05-02",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "N1OKAJfCLwM",
+      "instagram_media_id": "18082339967217613",
+      "posted_timestamp": "2026-05-02T16:16:04.540227",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_028",
