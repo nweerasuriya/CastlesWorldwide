@@ -775,7 +775,14 @@
         "caption": "🏰 Castillo De Polan #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-05-03",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "XfEQBZnzQ6g",
+      "instagram_media_id": "17881618899416251",
+      "posted_timestamp": "2026-05-03T16:15:45.053619",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_029",
