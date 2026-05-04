@@ -803,7 +803,14 @@
         "caption": "🏰 Chateau Dessous #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-05-04",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "82rICva5_HQ",
+      "instagram_media_id": "17919850719357976",
+      "posted_timestamp": "2026-05-04T16:33:46.141545",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_030",
