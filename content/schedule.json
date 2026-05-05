@@ -831,7 +831,14 @@
         "caption": "🏰 Manoir De Vau #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-05-05",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "-gxP_zIdVck",
+      "instagram_media_id": "18339215146170794",
+      "posted_timestamp": "2026-05-05T16:32:04.559420",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_031",
