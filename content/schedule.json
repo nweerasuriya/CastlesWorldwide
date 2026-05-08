@@ -915,7 +915,14 @@
         "caption": "🏰 Palazzo De Gemmis #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-05-08",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "1kz_055uu20",
+      "instagram_media_id": "18128938708587293",
+      "posted_timestamp": "2026-05-08T16:29:35.314325",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     }
   ]
 }
