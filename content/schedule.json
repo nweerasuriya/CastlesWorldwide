@@ -19,7 +19,13 @@
         "caption": "🏰 Schloss Kunreuth #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-05-15",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "lJirEtaMZ4s",
+      "posted_timestamp": "2026-05-15T16:34:26.218310",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": false
+      }
     },
     {
       "id": "castle_002",
