@@ -74,7 +74,14 @@
         "caption": "🏰 Hosap Kalesi #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-05-17",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "vtHYN-wPkuU",
+      "instagram_media_id": "18109112756489600",
+      "posted_timestamp": "2026-05-17T16:20:38.801608",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_004",
