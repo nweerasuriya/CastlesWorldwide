@@ -102,7 +102,14 @@
         "caption": "🏰 Burg Obertagstein #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-05-18",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "qLtyActp9KA",
+      "instagram_media_id": "18073531319292107",
+      "posted_timestamp": "2026-05-18T16:58:13.294645",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_005",
