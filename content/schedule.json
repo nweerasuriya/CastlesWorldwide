@@ -130,7 +130,14 @@
         "caption": "🏰 Castillo De Quart #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-05-19",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "Zyf6fsO02Ek",
+      "instagram_media_id": "18036323201804257",
+      "posted_timestamp": "2026-05-19T16:58:55.758192",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_006",
