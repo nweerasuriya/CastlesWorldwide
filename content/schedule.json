@@ -158,7 +158,14 @@
         "caption": "🏰 Chateau De Torce #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-05-20",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "B40597N2DqM",
+      "instagram_media_id": "18113302969841134",
+      "posted_timestamp": "2026-05-20T17:02:47.684442",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_007",
