@@ -186,7 +186,14 @@
         "caption": "🏰 Castelo De Santa Cruz #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-05-21",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "LVItWOD10lg",
+      "instagram_media_id": "18077430698228767",
+      "posted_timestamp": "2026-05-21T16:53:01.651304",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_008",
