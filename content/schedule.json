@@ -214,7 +214,14 @@
         "caption": "🏰 Castillo De Las Arguijuelas De Abajo #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-05-22",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "xKKUgXVREOE",
+      "instagram_media_id": "18021692798667316",
+      "posted_timestamp": "2026-05-22T16:43:45.077190",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_009",
