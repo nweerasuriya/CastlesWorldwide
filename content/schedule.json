@@ -242,7 +242,13 @@
         "caption": "🏰 Chateau De Vilhonneur #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-05-23",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "JGXYHviy3ko",
+      "posted_timestamp": "2026-05-23T16:30:18.903822",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": false
+      }
     },
     {
       "id": "castle_010",
