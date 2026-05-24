@@ -269,7 +269,13 @@
         "caption": "🏰 Chateau Rouillaud #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-05-24",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "3UmprisZ1Nw",
+      "posted_timestamp": "2026-05-24T16:30:36.928691",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": false
+      }
     }
   ]
 }
