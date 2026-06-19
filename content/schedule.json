@@ -47,7 +47,14 @@
         "caption": "🏰 Castello Di Isola Polvese #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-06-19",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "OVJexc54uLI",
+      "instagram_media_id": "18106951528958684",
+      "posted_timestamp": "2026-06-19T16:48:36.714600",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_003",
