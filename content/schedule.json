@@ -103,7 +103,14 @@
         "caption": "🏰 Castillo De Moratalla #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-06-21",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "nGRi99MTQk4",
+      "instagram_media_id": "18083543255447585",
+      "posted_timestamp": "2026-06-21T16:32:45.219680",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_005",
