@@ -131,7 +131,14 @@
         "caption": "🏰 Schloss Schrattenthal #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-06-22",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "3pONcDyQnTw",
+      "instagram_media_id": "17966216687934562",
+      "posted_timestamp": "2026-06-22T17:32:15.194913",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_006",
