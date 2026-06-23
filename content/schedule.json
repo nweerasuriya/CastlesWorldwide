@@ -159,7 +159,14 @@
         "caption": "🏰 Grad Vurberk #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-06-23",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "3MXHy4LLCMQ",
+      "instagram_media_id": "18126615181725355",
+      "posted_timestamp": "2026-06-23T16:48:10.024287",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_007",
