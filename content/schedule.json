@@ -215,7 +215,14 @@
         "caption": "🏰 Die Romerburg #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-06-25",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "94U9rtxyPBI",
+      "instagram_media_id": "18134314624604501",
+      "posted_timestamp": "2026-06-25T16:46:35.184290",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_009",
