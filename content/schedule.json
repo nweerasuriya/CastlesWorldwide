@@ -243,7 +243,14 @@
         "caption": "🏰 Chateau De Florennes #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-06-26",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "BCwiRKf7DsE",
+      "instagram_media_id": "18088144610421477",
+      "posted_timestamp": "2026-06-26T16:39:23.450203",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_010",
