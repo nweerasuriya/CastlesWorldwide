@@ -271,7 +271,14 @@
         "caption": "🏰 Carleton Castle #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-06-27",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "T0Jo2TBhvPk",
+      "instagram_media_id": "18094581038580354",
+      "posted_timestamp": "2026-06-27T16:24:11.560895",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_011",
