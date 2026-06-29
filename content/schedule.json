@@ -327,7 +327,14 @@
         "caption": "🏰 Castillo De La Yedra #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-06-29",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "-i6nPsFNUgE",
+      "instagram_media_id": "18115645357881541",
+      "posted_timestamp": "2026-06-29T17:04:11.117606",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_013",
