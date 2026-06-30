@@ -186,3 +186,16 @@ if instagram_poster.verify_token():
         caption='🏰 Castelo De Torres Vedras #castles #castlesworldwide #CastleLovers #shorts'
     )
 # %%
+# Remove _video from filenames in a directory
+import os
+def rename_videos_in_directory(directory):
+    for filename in os.listdir(directory):
+        if '_video' in filename:
+            new_filename = filename.replace('_video', '')
+            old_path = os.path.join(directory, filename)
+            new_path = os.path.join(directory, new_filename)
+            os.rename(old_path, new_path)
+            print(f"Renamed: {filename} -> {new_filename}")
+
+rename_videos_in_directory('holding_castle_videos')
+# %%
