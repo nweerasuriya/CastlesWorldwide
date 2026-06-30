@@ -355,7 +355,14 @@
         "caption": "🏰 Ylankale #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-06-30",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "MTcwyDa8Mdk",
+      "instagram_media_id": "17980219641032463",
+      "posted_timestamp": "2026-06-30T16:43:55.349867",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     }
   ]
 }
