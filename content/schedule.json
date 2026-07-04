@@ -47,7 +47,14 @@
         "caption": "🏰 Hachiman Castle #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-07-04",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "Dr_z_cbT5nE",
+      "instagram_media_id": "18106097996062492",
+      "posted_timestamp": "2026-07-04T16:21:26.816853",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_003",
