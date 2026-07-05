@@ -75,7 +75,14 @@
         "caption": "🏰 Pigeonnier Du Chateau #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-07-05",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "4Hpp9umbU1w",
+      "instagram_media_id": "17887764102597214",
+      "posted_timestamp": "2026-07-05T16:22:48.805430",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_004",
