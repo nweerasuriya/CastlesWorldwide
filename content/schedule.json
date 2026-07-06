@@ -103,7 +103,13 @@
         "caption": "🏰 Chateau De La Moriniere #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-07-06",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "TLuj3cKg4WQ",
+      "posted_timestamp": "2026-07-06T17:00:15.983805",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": false
+      }
     },
     {
       "id": "castle_005",
