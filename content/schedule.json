@@ -130,7 +130,14 @@
         "caption": "🏰 Burg Trutzeltz #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-07-07",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "VYZthJheOuw",
+      "instagram_media_id": "18176509420410609",
+      "posted_timestamp": "2026-07-07T16:47:20.381836",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_006",
