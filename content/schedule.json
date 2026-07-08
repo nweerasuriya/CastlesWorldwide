@@ -158,7 +158,14 @@
         "caption": "🏰 Castillo De Cervera #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-07-08",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "As1akF34Ej0",
+      "instagram_media_id": "17910875133246124",
+      "posted_timestamp": "2026-07-08T16:32:05.401609",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_007",
