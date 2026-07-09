@@ -186,7 +186,14 @@
         "caption": "🏰 Castillo De La Atalaya #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-07-09",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "Uwl2w_UTJXI",
+      "instagram_media_id": "18179093476414743",
+      "posted_timestamp": "2026-07-09T16:50:05.330080",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_008",
