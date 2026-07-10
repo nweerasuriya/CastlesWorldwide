@@ -214,7 +214,14 @@
         "caption": "🏰 Chateau De Ferrals #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-07-10",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "bJL-twx6wqk",
+      "instagram_media_id": "18113842606912423",
+      "posted_timestamp": "2026-07-10T16:42:06.995278",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_009",
