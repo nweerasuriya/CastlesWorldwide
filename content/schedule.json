@@ -242,7 +242,14 @@
         "caption": "🏰 Chateau Du Pouyaud #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-07-11",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "rBgOR6upedo",
+      "instagram_media_id": "17936680284316574",
+      "posted_timestamp": "2026-07-11T16:17:37.732588",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_010",
