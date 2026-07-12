@@ -270,7 +270,14 @@
         "caption": "🏰 Ancien Chateau De Cambron #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-07-12",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "PuJr5_WRabY",
+      "instagram_media_id": "17898275211498810",
+      "posted_timestamp": "2026-07-12T16:19:47.280794",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_011",
