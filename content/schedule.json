@@ -326,7 +326,14 @@
         "caption": "🏰 Castillo De Burgalimar #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-07-14",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "dLxqj4i3gtY",
+      "instagram_media_id": "17894168229376170",
+      "posted_timestamp": "2026-07-14T16:27:13.896685",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_013",
