@@ -354,7 +354,14 @@
         "caption": "🏰 Schloss Oberkotzau #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-07-15",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "-12gWRQVRSE",
+      "instagram_media_id": "18425172313180057",
+      "posted_timestamp": "2026-07-15T16:30:51.648468",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_014",
