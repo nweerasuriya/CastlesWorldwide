@@ -382,7 +382,14 @@
         "caption": "🏰 Wakayama Castle #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-07-16",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "haMrfSllZGo",
+      "instagram_media_id": "17977723935100209",
+      "posted_timestamp": "2026-07-16T16:29:09.438086",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_015",
