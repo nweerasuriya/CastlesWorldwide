@@ -410,7 +410,14 @@
         "caption": "🏰 Chateau Neuf #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-07-17",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "TmpniRTOib4",
+      "instagram_media_id": "18109212926512268",
+      "posted_timestamp": "2026-07-17T16:26:11.690103",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_016",
