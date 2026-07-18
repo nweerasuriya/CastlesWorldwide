@@ -438,7 +438,14 @@
         "caption": "🏰 Castello Di Menaggio #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-07-18",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "lSQJpLXA2pc",
+      "instagram_media_id": "17985585864036492",
+      "posted_timestamp": "2026-07-18T16:18:37.389913",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_017",
