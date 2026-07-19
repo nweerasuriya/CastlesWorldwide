@@ -466,7 +466,14 @@
         "caption": "🏰 Castello Di Viano #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-07-19",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "eivpFkX5O6o",
+      "instagram_media_id": "18004528262767119",
+      "posted_timestamp": "2026-07-19T16:19:08.501980",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_018",
