@@ -494,7 +494,14 @@
         "caption": "🏰 Schloss Wommen #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-07-20",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "Z7lgSbuTHiU",
+      "instagram_media_id": "18134787439591484",
+      "posted_timestamp": "2026-07-20T16:30:25.653038",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_019",
