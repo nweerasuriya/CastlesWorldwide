@@ -550,7 +550,14 @@
         "caption": "🏰 Chateau D Esneval #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-07-22",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "SyiV7AhYE40",
+      "instagram_media_id": "17880847560676006",
+      "posted_timestamp": "2026-07-22T16:30:48.801725",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_021",
