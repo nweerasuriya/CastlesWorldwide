@@ -578,7 +578,14 @@
         "caption": "🏰 Ono Castle #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-07-23",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "KYaSKVMPzfc",
+      "instagram_media_id": "17937687543316870",
+      "posted_timestamp": "2026-07-23T16:31:20.045726",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_022",
