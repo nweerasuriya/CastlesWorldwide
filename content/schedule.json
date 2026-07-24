@@ -606,7 +606,14 @@
         "caption": "🏰 Chateau De Quenet #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-07-24",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "lexzJJsug7o",
+      "instagram_media_id": "18179014057412275",
+      "posted_timestamp": "2026-07-24T16:32:33.959406",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     }
   ]
 }
