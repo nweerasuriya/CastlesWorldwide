@@ -172,3 +172,4 @@ cython_debug/
 data/
 outputs/
 credentials/
+old_videos/
