@@ -47,7 +47,14 @@
         "caption": "🏰 Orchil Castle #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-08-09",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "VTXwqnoD_Ho",
+      "instagram_media_id": "18123962248745818",
+      "posted_timestamp": "2026-08-09T16:08:17.989003",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_003",
