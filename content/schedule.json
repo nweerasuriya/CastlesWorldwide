@@ -75,7 +75,14 @@
         "caption": "🏰 Schloss Thierstein #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-08-10",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "5DfqhFMh1h4",
+      "instagram_media_id": "18164554234474030",
+      "posted_timestamp": "2026-08-10T16:17:09.975339",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_004",
