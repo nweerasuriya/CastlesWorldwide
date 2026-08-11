@@ -103,7 +103,14 @@
         "caption": "🏰 Chateau De Pizay #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-08-11",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "a_pwGV9ChAw",
+      "instagram_media_id": "18154599460496637",
+      "posted_timestamp": "2026-08-11T16:17:45.853579",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_005",
