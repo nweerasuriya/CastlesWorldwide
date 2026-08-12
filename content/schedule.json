@@ -131,7 +131,14 @@
         "caption": "🏰 Chateau De Varillettes #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-08-12",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "_DNoK9Ykqco",
+      "instagram_media_id": "18137543122577941",
+      "posted_timestamp": "2026-08-12T16:18:18.155049",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_006",
