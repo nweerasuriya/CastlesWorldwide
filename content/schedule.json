@@ -159,7 +159,14 @@
         "caption": "🏰 Chateau De Citernes #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-08-13",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "5gCSVEyFUbs",
+      "instagram_media_id": "18016497302931874",
+      "posted_timestamp": "2026-08-13T16:17:51.433863",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_007",
