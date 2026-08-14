@@ -187,7 +187,14 @@
         "caption": "🏰 Chateau De Parfouru #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-08-14",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "AgyNucJUu4g",
+      "instagram_media_id": "18177011704421948",
+      "posted_timestamp": "2026-08-14T16:16:47.194607",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_008",
