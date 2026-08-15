@@ -215,7 +215,14 @@
         "caption": "🏰 Chateau De Rochebrune #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-08-15",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "A5E1lVS5S0g",
+      "instagram_media_id": "18076683446492472",
+      "posted_timestamp": "2026-08-15T16:03:57.388423",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_009",
