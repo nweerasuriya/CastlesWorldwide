@@ -243,7 +243,14 @@
         "caption": "🏰 Chateau De Lorentzen #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-08-16",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "BOSbAtTt9tk",
+      "instagram_media_id": "18348087769221201",
+      "posted_timestamp": "2026-08-16T16:04:24.319655",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_010",
