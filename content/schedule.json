@@ -271,7 +271,13 @@
         "caption": "🏰 Chateau De Reilhanette #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-08-17",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "WNsKIIdy8q4",
+      "posted_timestamp": "2026-08-17T16:04:29.987849",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": false
+      }
     },
     {
       "id": "castle_011",
