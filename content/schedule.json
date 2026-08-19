@@ -326,7 +326,14 @@
         "caption": "🏰 Chateau De Brignac #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-08-19",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "yqpx17CVweU",
+      "instagram_media_id": "18112173880797006",
+      "posted_timestamp": "2026-08-19T16:06:56.841470",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_013",
