@@ -354,7 +354,14 @@
         "caption": "🏰 Chateau De La Moglais #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-08-20",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "OQAhEFtrcWM",
+      "instagram_media_id": "17899543752580647",
+      "posted_timestamp": "2026-08-20T16:08:07.603914",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_014",
