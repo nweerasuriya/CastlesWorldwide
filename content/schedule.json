@@ -382,7 +382,14 @@
         "caption": "🏰 Chateau Des Girodeaux #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-08-21",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "L-GwXV-jEnU",
+      "instagram_media_id": "18099137309110219",
+      "posted_timestamp": "2026-08-21T16:07:51.263988",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_015",
