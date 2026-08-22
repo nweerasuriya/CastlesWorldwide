@@ -410,7 +410,14 @@
         "caption": "🏰 Chateau De Vouilly #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-08-22",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "Ug8Qd5Gc_ks",
+      "instagram_media_id": "17878216986688403",
+      "posted_timestamp": "2026-08-22T16:04:00.619872",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_016",
