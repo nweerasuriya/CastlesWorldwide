@@ -522,7 +522,14 @@
         "caption": "🏰 Shuri Castle #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-08-26",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "Su23TdNwQfc",
+      "instagram_media_id": "17919211524223100",
+      "posted_timestamp": "2026-08-26T16:27:48.945800",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_020",
