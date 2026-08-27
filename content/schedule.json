@@ -550,7 +550,14 @@
         "caption": "🏰 Chateau De Compeyre #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-08-27",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "E0eaxBf9Br0",
+      "instagram_media_id": "17963787276190654",
+      "posted_timestamp": "2026-08-27T19:35:20.896188",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_021",
