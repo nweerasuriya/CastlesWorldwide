@@ -578,7 +578,14 @@
         "caption": "🏰 Burg Gutenfels #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-08-28",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "iKcALrkY5sk",
+      "instagram_media_id": "18111292748107449",
+      "posted_timestamp": "2026-08-28T20:00:46.326149",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_022",
