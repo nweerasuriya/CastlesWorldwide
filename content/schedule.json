@@ -606,7 +606,14 @@
         "caption": "🏰 Pitfour Castle #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-08-29",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "vYmor_RzV1M",
+      "instagram_media_id": "18325713214302352",
+      "posted_timestamp": "2026-08-29T16:05:55.815178",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_023",
