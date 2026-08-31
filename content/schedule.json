@@ -662,7 +662,14 @@
         "caption": "🏰 Lesna Skaa #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-08-31",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "LsG6vKe9WnA",
+      "instagram_media_id": "17942341107309124",
+      "posted_timestamp": "2026-08-31T16:06:48.935729",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     }
   ]
 }
