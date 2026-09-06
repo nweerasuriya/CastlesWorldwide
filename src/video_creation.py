@@ -515,4 +515,4 @@ def process_castle_spreadsheet(csv_path, output_dir="holding_castle_videos", sta
 if __name__ == "__main__":
     if ffmpeg_availability_check():
         # Process the castle spreadsheet
-        process_castle_spreadsheet('outputs/final/only_castles_v4.csv', start_index=610, jump=20)
+        process_castle_spreadsheet('outputs/final/only_castles_v4.csv', start_index=650, jump=20)
