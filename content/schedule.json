@@ -47,7 +47,13 @@
         "caption": "🏰 Chateau De Mesmont #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-09-08",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "6pbUpnwDVd4",
+      "posted_timestamp": "2026-09-08T16:07:03.033984",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": false
+      }
     },
     {
       "id": "castle_003",
