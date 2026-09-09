@@ -74,7 +74,14 @@
         "caption": "🏰 Kajuru Castle #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-09-09",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "7Ypp_0jvAXk",
+      "instagram_media_id": "18006542651978385",
+      "posted_timestamp": "2026-09-09T16:06:42.856585",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_004",
