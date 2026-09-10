@@ -102,7 +102,14 @@
         "caption": "🏰 Chateau D Entrechaux #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-09-10",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "Y2e40Sgiru4",
+      "instagram_media_id": "18120445946317469",
+      "posted_timestamp": "2026-09-10T16:07:04.866947",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_005",
