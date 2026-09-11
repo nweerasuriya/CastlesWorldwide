@@ -130,7 +130,14 @@
         "caption": "🏰 Chateau De Boutheon #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-09-11",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "b_wUwXigPqE",
+      "instagram_media_id": "18133122805565731",
+      "posted_timestamp": "2026-09-11T16:06:51.890917",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_006",
