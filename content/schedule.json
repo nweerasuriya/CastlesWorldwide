@@ -158,7 +158,14 @@
         "caption": "🏰 Chateau De La Villeneuve #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-09-12",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "CYg5CGcGZ_Y",
+      "instagram_media_id": "18585605293070578",
+      "posted_timestamp": "2026-09-12T16:06:39.792391",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_007",
