@@ -242,7 +242,14 @@
         "caption": "🏰 Chateau D Artias #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-09-15",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "NdYlRIj4cyo",
+      "instagram_media_id": "18101067104631091",
+      "posted_timestamp": "2026-09-15T16:06:47.968122",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_010",
