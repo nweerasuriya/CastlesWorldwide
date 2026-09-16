@@ -270,7 +270,14 @@
         "caption": "🏰 Chateau De Montguyon #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-09-16",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "gfr5iqkwKZ4",
+      "instagram_media_id": "18626210956011188",
+      "posted_timestamp": "2026-09-16T16:07:42.701532",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_011",
