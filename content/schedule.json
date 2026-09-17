@@ -298,7 +298,14 @@
         "caption": "🏰 Chateau De Montbrun #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-09-17",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "EdA8tZrlPwg",
+      "instagram_media_id": "17931102744406134",
+      "posted_timestamp": "2026-09-17T16:08:02.604851",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_012",
