@@ -326,7 +326,14 @@
         "caption": "🏰 Chateau De Saint Ferriol #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-09-18",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "GJTI2ZBb-34",
+      "instagram_media_id": "18117082477996240",
+      "posted_timestamp": "2026-09-18T16:07:02.694995",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_013",
