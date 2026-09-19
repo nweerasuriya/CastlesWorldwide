@@ -354,7 +354,14 @@
         "caption": "🏰 Chateau De Beaucamps Le Jeune #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-09-19",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "AhWyRQD7xfw",
+      "instagram_media_id": "18128664421787314",
+      "posted_timestamp": "2026-09-19T16:06:00.363808",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_014",
