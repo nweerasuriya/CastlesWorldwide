@@ -410,7 +410,14 @@
         "caption": "🏰 Chateau De Bernesq #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-09-21",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "982Dah90xfk",
+      "instagram_media_id": "18113719076026429",
+      "posted_timestamp": "2026-09-21T16:07:32.250455",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_016",
