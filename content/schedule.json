@@ -438,7 +438,14 @@
         "caption": "🏰 Chateau De Janvry #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-09-22",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "s0ieGFwwWLM",
+      "instagram_media_id": "18345531469264941",
+      "posted_timestamp": "2026-09-22T16:07:04.433185",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_017",
