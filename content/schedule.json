@@ -466,7 +466,14 @@
         "caption": "🏰 Chateau De Montgilbert #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-09-23",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "WeJHcDJuk9s",
+      "instagram_media_id": "18219112621349927",
+      "posted_timestamp": "2026-09-23T16:07:40.931279",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_018",
