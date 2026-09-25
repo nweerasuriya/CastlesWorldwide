@@ -522,7 +522,14 @@
         "caption": "🏰 Chateau De La Bretonniere #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-09-25",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "wtg7YRnR-kU",
+      "instagram_media_id": "17958413169011489",
+      "posted_timestamp": "2026-09-25T16:09:04.122109",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_020",
