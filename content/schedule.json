@@ -550,7 +550,14 @@
         "caption": "🏰 Chateau De Monteton #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-09-26",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "JDpU-HuAZm8",
+      "instagram_media_id": "18341267635254612",
+      "posted_timestamp": "2026-09-26T16:06:43.146882",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_021",
