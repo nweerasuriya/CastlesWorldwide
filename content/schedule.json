@@ -578,7 +578,14 @@
         "caption": "🏰 Cawood Castle #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-09-27",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "hA_DBH-E180",
+      "instagram_media_id": "17981317052899968",
+      "posted_timestamp": "2026-09-27T16:06:58.981244",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_022",
