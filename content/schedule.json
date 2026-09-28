@@ -606,7 +606,14 @@
         "caption": "🏰 Chateau Du Tremblay Sur Mauldre #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-09-28",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "lQW4ktmu0iI",
+      "instagram_media_id": "18097634489092267",
+      "posted_timestamp": "2026-09-28T16:07:49.483248",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_023",
