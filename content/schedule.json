@@ -634,7 +634,14 @@
         "caption": "🏰 Chateau Du Bec Crespin #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-09-29",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "QjBrpX2Iriw",
+      "instagram_media_id": "18127052110870864",
+      "posted_timestamp": "2026-09-29T16:07:40.350686",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_024",
