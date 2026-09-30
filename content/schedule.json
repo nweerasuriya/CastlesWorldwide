@@ -662,7 +662,14 @@
         "caption": "🏰 Chateau De Montcigoux #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-09-30",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "JiWWj8gajdU",
+      "instagram_media_id": "18127013648312946",
+      "posted_timestamp": "2026-09-30T16:07:41.689917",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_025",
