@@ -718,7 +718,14 @@
         "caption": "🏰 Chateau Du Fey #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-10-02",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "ratbL0sdtgg",
+      "instagram_media_id": "18116489836992369",
+      "posted_timestamp": "2026-10-02T16:06:58.131700",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_027",
