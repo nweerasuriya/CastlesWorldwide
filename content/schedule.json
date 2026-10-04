@@ -774,7 +774,14 @@
         "caption": "🏰 Chateau D Eguilly #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-10-04",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "asaxSFy2CkA",
+      "instagram_media_id": "17970675450156984",
+      "posted_timestamp": "2026-10-04T17:21:35.888305",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_029",
