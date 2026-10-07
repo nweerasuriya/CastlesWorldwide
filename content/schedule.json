@@ -858,7 +858,14 @@
         "caption": "🏰 Chateau De La Motte Glain #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-10-07",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "fSlKfWV96-A",
+      "instagram_media_id": "17989577691118369",
+      "posted_timestamp": "2026-10-07T16:08:01.910414",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     }
   ]
 }
