@@ -75,7 +75,14 @@
         "caption": "🏰 Chateau De Lauris #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-11-12",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "hTnRHLkf5Go",
+      "instagram_media_id": "17954624175303281",
+      "posted_timestamp": "2026-11-12T16:04:39.576528",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_004",
