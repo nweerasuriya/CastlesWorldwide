@@ -131,7 +131,14 @@
         "caption": "🏰 Chateau D Excideuil #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-11-14",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "6_Lf10ubftM",
+      "instagram_media_id": "17911988493664114",
+      "posted_timestamp": "2026-11-14T16:04:18.628544",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_006",
