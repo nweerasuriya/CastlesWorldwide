@@ -215,7 +215,14 @@
         "caption": "🏰 Chateau Du Bas Chareil #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-11-17",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "I6u3xNlgLfA",
+      "instagram_media_id": "17894388939618754",
+      "posted_timestamp": "2026-11-17T16:04:48.132714",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_009",
