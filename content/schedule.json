@@ -271,7 +271,14 @@
         "caption": "🏰 Braal Castle #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-11-19",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "Jc58wlmZRcY",
+      "instagram_media_id": "18106974593160026",
+      "posted_timestamp": "2026-11-19T16:04:50.212202",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_011",
