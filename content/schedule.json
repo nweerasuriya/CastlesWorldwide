@@ -327,7 +327,14 @@
         "caption": "🏰 Chateau De Leuc #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-11-21",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "gOzsZvzv2Aw",
+      "instagram_media_id": "18093056069312742",
+      "posted_timestamp": "2026-11-21T16:04:48.177771",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_013",
