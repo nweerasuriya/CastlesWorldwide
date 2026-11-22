@@ -355,7 +355,14 @@
         "caption": "🏰 Chateau De L Echasserie #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-11-22",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "TRf05kz7aSY",
+      "instagram_media_id": "18233115163333543",
+      "posted_timestamp": "2026-11-22T16:04:12.732007",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_014",
