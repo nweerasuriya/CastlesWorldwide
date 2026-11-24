@@ -411,7 +411,14 @@
         "caption": "🏰 Manoir De La Cour #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-11-24",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "4_jM5eFtnA0",
+      "instagram_media_id": "17958756093274158",
+      "posted_timestamp": "2026-11-24T16:04:58.817682",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_016",
