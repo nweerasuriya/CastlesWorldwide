@@ -439,7 +439,14 @@
         "caption": "🏰 Chateau De Molleville #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-11-25",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "rnaAGcK3SSg",
+      "instagram_media_id": "18128537977810002",
+      "posted_timestamp": "2026-11-25T16:05:10.962671",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_017",
