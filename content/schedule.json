@@ -467,7 +467,14 @@
         "caption": "🏰 Chateau D Orgemont #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-11-26",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "IgcP7-45TRE",
+      "instagram_media_id": "18378691030211839",
+      "posted_timestamp": "2026-11-26T16:04:43.271278",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_018",
