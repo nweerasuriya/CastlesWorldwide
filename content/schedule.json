@@ -495,7 +495,14 @@
         "caption": "🏰 Chateau De L Oisellerie #castles #castlesworldwide #CastleLovers #shorts ✨"
       },
       "scheduled_date": "2026-11-27",
-      "posted": false
+      "posted": true,
+      "youtube_video_id": "i5hy6DlbDkQ",
+      "instagram_media_id": "18117451847154957",
+      "posted_timestamp": "2026-11-27T16:05:07.353926",
+      "platforms_posted": {
+        "youtube": true,
+        "instagram": true
+      }
     },
     {
       "id": "castle_019",
